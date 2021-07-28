@@ -1,4 +1,4 @@
-Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investment_Type,Amount_in_USD,Remarks
+ ,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investment_Type,Amount_in_USD,Remarks
 1,09-01-2020,BYJU'S,Ed-Tech,E-learning,Bengaluru,Tiger Global Management,Private Equity Round,200000000,
 2,13-01-2020,Shuttl,Transportation,App based shuttle service,Gurgaon,Susquehanna Growth Equity LLC,Series C,8048394,
 3,09-01-2020,MamaEarth,E-Commerce,Retailer of baby and toddler products,Bengaluru,Sequoia India,Series B,18358860,
@@ -195,7 +195,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 194,06-07-2018,Policybazaar,FinTech,Online Insurance Selling Platform,Gurugram,"Info Edge (India) Ltd , Temasek Holdings",Private Equity Round,27700000,nan
 195,09-07-2018,zippserv,Real Estate,Online Platform For Risk-Assessment Services For Real Estate Investments,Bengaluru,Info Edge (India) Ltd,Seed/Angel Round,440000,nan
 196,09-07-2018,Groww,FinTech,Online Platform That Sells Direct Plans Of Mutual Funds,Bengaluru,"Insignia Ventures Partners, Lightbridge Partners, Kairos",Seed/Angel Round,1100000,nan
-197,10-07-2018,Avenue Growth,Consumer Internet,Online Platform That Connects Brands With Freelance Sales Professionals,Gurugram,"Avtar Monga- chief operating office at IDFC Bank, Aditya Malik",Seed/Angel Round,437000,nan
+197,10-07-2018,Avenue Growth,Financial Services,Online Platform That Connects Brands With Freelance Sales Professionals,Gurugram,"Avtar Monga- chief operating office at IDFC Bank, Aditya Malik",Seed/Angel Round,437000,nan
 198,10-07-2018,iNICU,Information Technology,MEd-Tech Platform Providing Care For Newborns,New Delhi,Venture Catalysts,Seed/Angel Round,,nan
 199,10-07-2018,Kinara Capital,Financial Services,Lending Platform For Micro and Small Enterprises,Bengaluru,responsAbility,Private Equity Round,5000000,nan
 200,10-07-2018,Shop 101,E-Commerce,Mobile Storefront And Commerce Platform For Sellers,Mumbai,"Stellaris Venture Partners, Vy Capital, Raghunandan Gangappa, Ramakant Sharma",Private Equity Round,5000000,nan
@@ -305,7 +305,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 304,22-04-2018,Visit,Health and Wellness,AI Driven Health tech Platform,New Delhi,"Biz Stone, Kunal Bahl, Rohit Bansal, Alagu Periyannan , Karthee Madasamy",Private Equity Round,,nan
 305,22-04-2018,Doxper,Healthcare,Digitized Health-Tech Solutions For Practitioners,Mumbai,Vidal Healthcare,Seed/Angel Round,1900000,nan
 306,22-04-2018,Nykaa,E-Commerce,Beauty e-tailer,Mumbai,"Sunil Munjal, Harsh Mariwala, Dalip Pathak",Private Equity Round,11000000,nan
-307,23-04-2018,Mihuru,Consumer Internet,Online Platform Providing Micro Loans For Air Travel,Mumbai,N/A,Seed/Angel Round,150000,nan
+307,23-04-2018,Mihuru,Financial Services,Online Platform Providing Micro Loans For Air Travel,Mumbai,N/A,Seed/Angel Round,150000,nan
 308,23-04-2018,Capital Float,Financial Services,Online Lending Platform,Bengaluru,Amazon,Private Equity Round,22000000,nan
 309,25-04-2018,Trip shelf,TourismTravel,Online Travel Marketplace,New Delhi,"GEMS Advisory, Alok Mittal , Sachin Bhatia",Seed/Angel Round,246000,nan
 310,26-04-2018,POPxo.com,Beauty & Lifestyle platform,Women Focussed Digital Media Platform,New Delhi,"Neoplux, OPPO, IDG Ventures India, Kalaari Capital, GREE Ventures , Summit Media",Private Equity Round,5500000,nan
@@ -400,262 +400,262 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 399,10-01-2018,Appario Retail Pvt Ltd.,E-Commerce,Retail,New Delhi,Amazon-Patni JV,Private Equity Round,18840000,nan
 400,10-01-2018,Samunnati,Financial Services,Agricultural Loan,Chennai,"responsAbility, Elevar Equity , Accel",Private Equity Round,23500000,nan
 401,10-01-2018,Sahajanand Medical Technologies,Technology,Medical Devices,Surat,Morgan Stanley Private Equity Asia,Private Equity Round,36230000,nan
-402,12-01-2018,Kuants,Technology,Algorithmic Trading,Gurgaon,"Pankaj Chopra, Ankush Gupta",Seed/Angel Round,80000,nan
-403,12-01-2018,Razorpay,Technology,Payment Gateway,Bengaluru,"Tiger Global Management, Y Combinator",Private Equity Round,20000000,nan
-404,15-01-2018,Streak,Technology,Algorithmic Trading,Bengaluru,"Indian Financial Tech fund, Rainmatter",Seed/Angel Round,354600,nan
+402,12-01-2018,Kuants,Financial Services,Algorithmic Trading,Gurgaon,"Pankaj Chopra, Ankush Gupta",Seed/Angel Round,80000,nan
+403,12-01-2018,Razorpay,FinTech,Payment Gateway,Bengaluru,"Tiger Global Management, Y Combinator",Private Equity Round,20000000,nan
+404,15-01-2018,Streak,FinTech,Algorithmic Trading,Bengaluru,"Indian Financial Tech fund, Rainmatter",Seed/Angel Round,354600,nan
 405,15-01-2018,pi Ventures,Financial Services,Venture Capital,Bengaluru,"Sunil Kant Munjal, Hero Electronix's corporate financing arm, Electronic Development Fund",Private Equity Round,25000000,nan
-406,15-01-2018,Newgen Software,Technology,IT,New Delhi,"Goldman Sachs Group, hedge fund",Private Equity Round,20000000,nan
-407,17-01-2018,Rubix,Technology,Education,Pune,Polaris Fund,Private Equity Round,1000000,nan
-408,18-01-2018,ShareChat,Technology,Social,Bengaluru,"Xiaomi Singapore, Shunwei Capital",Private Equity Round,18200000,nan
+406,15-01-2018,Newgen Software,Information Technology,IT,New Delhi,"Goldman Sachs Group, hedge fund",Private Equity Round,20000000,nan
+407,17-01-2018,Rubix,Ed-Tech,Education,Pune,Polaris Fund,Private Equity Round,1000000,nan
+408,18-01-2018,ShareChat,Internet,Social,Bengaluru,"Xiaomi Singapore, Shunwei Capital",Private Equity Round,18200000,nan
 409,22-01-2018,Paperflite,Technology,IT,Chennai,The Chennai Angels,Seed/Angel Round,400000,nan
 410,22-01-2018,HungerBox,Food & Beverages,Food and Beverages,Bengaluru,Lionrock Capital,Private Equity Round,2500000,nan
-411,22-01-2018,Skillate,Technology,Artificial Intellegence,Bengaluru,"Incubate Fund India, Anuj Agrawal",Private Equity Round,,nan
-412,22-01-2018,OptaCredit,Finance,Alternative Lending,Chennai,DMI Finance,Private Equity Round,4000000,nan
-413,22-01-2018,AEON Learning,Technology,Education,Bengaluru,Dr. Ranjan Pai,Private Equity Round,3200000,nan
+411,22-01-2018,Skillate,Artificial Intelligence,Artificial Intellegence,Bengaluru,"Incubate Fund India, Anuj Agrawal",Private Equity Round,,nan
+412,22-01-2018,OptaCredit,Financial Services,Alternative Lending,Chennai,DMI Finance,Private Equity Round,4000000,nan
+413,22-01-2018,AEON Learning,Ed-Tech,Education,Bengaluru,Dr. Ranjan Pai,Private Equity Round,3200000,nan
 414,23-01-2018,Milkbasket,Daily micro-delivery service,Online Grocery,Gurugram,Unilever Ventures,Private Equity Round,3000000,nan
-415,24-01-2018,NeoGrowth Credit,Finance,Digital Lending,Mumbai,"LeapFrog Investments, Aspada Investment, Quona Capital",Private Equity Round,47000000,nan
+415,24-01-2018,NeoGrowth Credit,Financial Services,Digital Lending,Mumbai,"LeapFrog Investments, Aspada Investment, Quona Capital",Private Equity Round,47000000,nan
 416,24-01-2018,Rao IIT Academy,Education,Coaching Services,Mumbai,Avendus Finance,Structured Debt,8600000,nan
 417,24-01-2018,Aye Finance,Financial Services,Online Lending,Gurugram,IFMR Capital Finance,Term Loan,6240000,nan
 418,25-01-2018,Glassic,E-Commerce,Eyewear,Bengaluru,"The Chennai Angels, Lead Angel Network, LetsVenture",Seed/Angel Round,,nan
-419,25-01-2018,GreyAtom,Technology,Education,Mumbai,Pravega Ventures,Private Equity Round,1000000,nan
+419,25-01-2018,GreyAtom,Education,Education,Mumbai,Pravega Ventures,Private Equity Round,1000000,nan
 420,26-01-2018,Axio,Information Technology,Hemostatic Dressing Solutions,Bengaluru,RNT Capital,Private Equity Round,7400000,nan
 421,29-01-2018,eKincare,Health and Wellness,Technology,Hyderabad,"Ventureast, Endiya Partners, Eight Roads Ventures India, Touchstone Equities, BVR Mohan Reddy",Private Equity Round,1500000,nan
-422,29-01-2018,The Wedding Brigade,Consumer Internet,Online Services,Mumbai,Blume Ventures,Private Equity Round,1000000,nan
+422,29-01-2018,The Wedding Brigade,Internet,Online Services,Mumbai,Blume Ventures,Private Equity Round,1000000,nan
 423,30-01-2018,Pee Safe,Health and Wellness,Hygiene,Gurugram,"Shivani Singh, Rahul Maroli, Mitesh Shah, Venture Catalysts, Alfa Capital, Green Shots Capital, Real Time Ventures",Private Equity Round,1000000,nan
 424,30-01-2018,BrowserStack,Technology,Browser Testing,Mumbai,Accel,Private Equity Round,50000000,nan
 425,30-01-2018,Scapic,Technology,Virtual Reality,Bengaluru,"Axilor Partners, Newfort Capital",Seed/Angel Round,500000,nan
 426,30-01-2018,MoneyOnMobile,Financial Services,Mobile Payment Platform,Mumbai,Group of investors (undisclosed),Private Equity Round,7600000,nan
 427,30-01-2018,Curefit,Health and Wellness,Fitness,Bengaluru,"HDFC Bank, Axis Bank",Debt Funding,10000000,nan
-428,31-01-2018,iNurture,Technology,Education Solutions,Bengaluru,Ventureast,Private Equity Round,4400000,nan
+428,31-01-2018,iNurture,Education,Education Solutions,Bengaluru,Ventureast,Private Equity Round,4400000,nan
 429,01-12-2017,Strata Enviro,Technology,IoT based air pollution controller,Mumbai,Scale Minds,Private Equity Round,,nan
 430,05-12-2017,Dunzo,Consumer Services,Daily Task Management Mobile App,Bengaluru,Google,Private Equity Round,12300000,nan
 431,05-12-2017,Tata Housing,Real Estate,Residential Project,Mumbai,Hines,Private Equity Round,23000000,nan
-432,05-12-2017,HandyTrain,Technology,Mobile Learning Management Platform,Goa,NB Ventures,Private Equity Round,1000000,nan
-433,05-12-2017,Mobycy,Technology,Bicycle sharing Platform,Gurgaon,Group of investors (undisclosed),Seed/Angel Round,500000,nan
+432,05-12-2017,HandyTrain,Ed-Tech,Mobile Learning Management Platform,Goa,NB Ventures,Private Equity Round,1000000,nan
+433,05-12-2017,Mobicycle,Technology,Bicycle sharing Platform,Gurgaon,Group of investors (undisclosed),Seed/Angel Round,500000,nan
 434,06-12-2017,Greenlight Planet,Technology,Off-grid solar products platform,Mumbai,"Apis Partners, Eight Roads Ventures India, Bamboo Capital Partners",Private Equity Round,60000000,nan
-435,06-12-2017,Fintobox,Technology,Child Learning & Development Platform,Chennai,Lightbox,Private Equity Round,7000000,nan
-436,07-12-2017,Mswipe,Technology,Mobile point of sale services provider,Mumbai,Eduardo Saverin,Private Equity Round,10000000,nan
-437,07-12-2017,The Label Life,E-Commerce,Home Decor and Online Fashion Portal,Mumbai,Kalpavriksh,Private Equity Round,3100000,nan
+435,06-12-2017,Fintobox,E-Commerce,Child Learning & Development Platform,Chennai,Lightbox,Private Equity Round,7000000,nan
+436,07-12-2017,Mswipe,Financial Services,Mobile point of sale services provider,Mumbai,Eduardo Saverin,Private Equity Round,10000000,nan
+437,07-12-2017,The Label Life,Retail,Home Decor and Online Fashion Portal,Mumbai,Kalpavriksh,Private Equity Round,3100000,nan
 438,07-12-2017,Cygnus Hospitals,Healthcare,Super speciality Hospitals,Gurgaon,Somerset Indus Capital Ventures,Seed/Angel Round,750000,nan
 439,07-12-2017,eShakti,E-Commerce,Women's Fashion Clothing Online Platform,Chennai,IDG Ventures India,Debt Funding,2300000,nan
-440,08-12-2017,Inshorts,Technology,Mobile News Curation App,Noida,Tiger Global Management,Private Equity Round,5000000,nan
+440,08-12-2017,Inshorts,Digital Media Platform,Mobile News Curation App,Noida,Tiger Global Management,Private Equity Round,5000000,nan
 441,11-12-2017,Vahdam Teas,E-Commerce,Online Platform Selling Indian Tea Globally,New Delhi,"Singapore Angel Network, Mumbai Angels Network",Private Equity Round,1500000,nan
-442,11-12-2017,Logic Roots,Technology,Educational Platform to Learn Mathematics,Mumbai,Village Capital,Seed/Angel Round,50000,nan
+442,11-12-2017,Logic Roots,Education,Educational Platform to Learn Mathematics,Mumbai,Village Capital,Seed/Angel Round,50000,nan
 443,11-12-2017,Project Mudra,Technology,Assisting Visually Impaired to learn through Braille,Bengaluru,Village Capital,Seed/Angel Round,50000,nan
-444,11-12-2017,Furlenco,Technology,Furniture Rental Platform,Bengaluru,Aamir Khan,Debt Funding,1200000,nan
-445,12-12-2017,I Can Stay,Technology,Hotel Aggregator Platform,New Delhi,HT Media,Private Equity Round,1800000,nan
+444,11-12-2017,Furlenco,Consumer Services,Furniture Rental Platform,Bengaluru,Aamir Khan,Debt Funding,1200000,nan
+445,12-12-2017,I Can Stay,Hospitality,Hotel Aggregator Platform,New Delhi,HT Media,Private Equity Round,1800000,nan
 446,12-12-2017,Fracktal Works,Technology,Platform based on 3D printing and Digital Manufacturing,Bengaluru,Hyderabad Angels,Seed/Angel Round,,nan
-447,12-12-2017,Simility,Technology,Adaptive Fraud Intelligence Platform,Hyderabad,Accel,Private Equity Round,17500000,nan
+447,12-12-2017,Simility,Artificial Intelligence,Adaptive Fraud Intelligence Platform,Hyderabad,Accel,Private Equity Round,17500000,nan
 448,12-12-2017,Shopholix,E-Commerce,Fashion and Lifestyle Coupon Platform,Gurgaon,Munesh Khanna,Seed/Angel Round,233000,nan
 449,13-12-2017,MindTickle,Technology,Gamification Platform to train Sales People,Pune,Canaan Partners,Private Equity Round,27000000,nan
 450,13-12-2017,Nazara Technologies,Technology,Mobile Games Development Firm,Mumbai,Rakesh Jhunjhunwala,Private Equity Round,27000000,nan
-451,13-12-2017,DocsApp,Technology,Mobile Application for Doctor Consultation,Bengaluru,Bessemer Venture Partners,Private Equity Round,7200000,nan
-452,13-12-2017,Capita World,Technology,Artificial Intelligence Platform to Raise Funds,Mumbai,"Mohan Tanksale, Kiran Shetty, Darshak Shah, Mandar Mhatre",Private Equity Round,,nan
-453,14-12-2017,Teabox,E-Commerce,Fresh Indian Tea Selling Platform across 112 countries,Bengaluru,RB Investments,Private Equity Round,7000000,nan
+451,13-12-2017,DocsApp,Health and Wellness,Mobile Application for Doctor Consultation,Bengaluru,Bessemer Venture Partners,Private Equity Round,7200000,nan
+452,13-12-2017,Capita World,FinTech,Artificial Intelligence Platform to Raise Funds,Mumbai,"Mohan Tanksale, Kiran Shetty, Darshak Shah, Mandar Mhatre",Private Equity Round,,nan
+453,14-12-2017,Teabox,Food & Beverages,Fresh Indian Tea Selling Platform across 112 countries,Bengaluru,RB Investments,Private Equity Round,7000000,nan
 454,14-12-2017,Transversal Technologies,Technology,Hyperlocal Video Information Sharing Platform,Bengaluru,Matrix Partners India,Private Equity Round,6000000,nan
-455,14-12-2017,Curofy,Technology,Mobile App for Network of Doctors,Gurgaon,RoundGlass Partners,Seed/Angel Round,250000,nan
+455,14-12-2017,Curofy,Healthcare,Mobile App for Network of Doctors,Gurgaon,RoundGlass Partners,Seed/Angel Round,250000,nan
 456,14-12-2017,HomeLane,Technology,Online Furniture Marketplace,Bengaluru,"Accel, Sequoia India, RB Investments",Private Equity Round,10000000,nan
-457,14-12-2017,WeDoSky,Technology,Provides Business Insights using Drone Imaginary,New Delhi,Mumbai Angels Network,Private Equity Round,,nan
+457,14-12-2017,WeDoSky,E-Commerce,Provides Business Insights using Drone Imaginary,New Delhi,Mumbai Angels Network,Private Equity Round,,nan
 458,15-12-2017,Purplle.com,E-Commerce,Beauty Products Online Marketplace,Mumbai,"Mountain Pine Capital, Suncoast Investments",Seed/Angel Round,537000,nan
 459,15-12-2017,Cash Suvidha,Financial Services,Online Micro-Lending Platform,New Delhi,N/A,Debt Funding,2700000,nan
 460,18-12-2017,Sky Met Weather,Technology,Weather Forecast Platform,Noida,InsuResillience Investment Fund,Private Equity Round,,nan
-461,19-12-2017,Springboard,Technology,Online Courses and Mentoring from Experts,Bengaluru,"Costanoa, Learn Capital, Jyoti Bansal",Private Equity Round,9500000,nan
-462,19-12-2017,Peel Works,Technology,SaaS based Big Data Analytics Platform,Mumbai,Unilever Ventures,Private Equity Round,,nan
-463,19-12-2017,9Stacks,Technology,Online Poker Platform,New Delhi,"Swati Gupta, Purnima Khandelwal, Maheshwar Peri, Sanjay Singh",Private Equity Round,1500000,nan
-464,20-12-2017,Your Quote,Technology,Vernacular and Video Content Platform,Bengaluru,"Axilor Partners, E-City VEntures Atul Goel",Private Equity Round,1000000,nan
-465,20-12-2017,Spandana Sphoorty,Finance,Micro finance institution providing small ticket unsecured loans to women,Hyderabad,"Kedaraa Capital, Ontario Teachers' Pension Plan",Private Equity Round,19500000,nan
-466,21-12-2017,Indus OS,Technology,Regional Operating System for Smartphones,Mumbai,Omidyar Network,Private Equity Round,4000000,nan
+461,19-12-2017,Springboard,Ed-Tech,Online Courses and Mentoring from Experts,Bengaluru,"Costanoa, Learn Capital, Jyoti Bansal",Private Equity Round,9500000,nan
+462,19-12-2017,Peel Works,Retail,SaaS based Big Data Analytics Platform,Mumbai,Unilever Ventures,Private Equity Round,,nan
+463,19-12-2017,9Stacks,Internet,Online Poker Platform,New Delhi,"Swati Gupta, Purnima Khandelwal, Maheshwar Peri, Sanjay Singh",Private Equity Round,1500000,nan
+464,20-12-2017,YourQuote,Internet,Vernacular and Video Content Platform,Bengaluru,"Axilor Partners, E-City VEntures Atul Goel",Private Equity Round,1000000,nan
+465,20-12-2017,Spandana Sphoorty,Financial Services,Micro finance institution providing small ticket unsecured loans to women,Hyderabad,"Kedaraa Capital, Ontario Teachers' Pension Plan",Private Equity Round,19500000,nan
+466,21-12-2017,Indus OS,Information Technology,Regional Operating System for Smartphones,Mumbai,Omidyar Network,Private Equity Round,4000000,nan
 467,21-12-2017,EasyEcom,E-Commerce,E-Commerce enabler platform,Bengaluru,"Ambarish Gupta, Aneesh Reddy, Bold Ventures, Vona Investments",Seed/Angel Round,150000,nan
 468,21-12-2017,IGP.com,E-Commerce,Online Gifting Platform,Uttar Pradesh,Venture Catalysts,Private Equity Round,,nan
-469,26-12-2017,Specsmakers,E-Commerce,Online Spects Platform for Men and Women,Chennai,Eight Roads Ventures India,Private Equity Round,10000000,nan
-470,27-12-2017,Garage On Road,E-Commerce,Online vehicle service booking platform,Noida,Gaurav Gupta,Private Equity Round,,nan
+469,26-12-2017,Specsmakers,Retail,Online Spects Platform for Men and Women,Chennai,Eight Roads Ventures India,Private Equity Round,10000000,nan
+470,27-12-2017,Garage On Road,Automotive Services platform,Online vehicle service booking platform,Noida,Gaurav Gupta,Private Equity Round,,nan
 471,27-12-2017,Foyr.com,Technology,Realty Tech Startup solving real life Interior Designing problems,Hyderabad,Jones Lang LaSalle,Private Equity Round,3800000,nan
-472,02-11-2017,Prest Loans,Finance,Business & SME Loans provider,New Delhi,"Manish Poddar, Arun Garg, Parmeshwar Sharma",Seed Round,570000,nan
+472,02-11-2017,Prest Loans,Financial Services,Business & SME Loans provider,New Delhi,"Manish Poddar, Arun Garg, Parmeshwar Sharma",Seed Round,570000,nan
 473,02-11-2017,AadharAPI.com,Technology,Aadhaar-based API provider,Pune,CIO Angel Network,Seed Round,,nan
-474,02-11-2017,Freshboxx,E-Commerce,Online Grocery Store,Bengaluru,Jayant Humbarwadi,Seed Round,,nan
-475,03-11-2017,Vagupu,Technology,Online Tutorial Marketplace,Bengaluru,Group of investors (undisclosed),Seed Round,1000000,nan
-476,03-11-2017,HalaPlay,Consumer Internet,Online Fantasy Games,Mumbai,"Kae Capital, Nazara Technologies Pvt Ltd",Seed Round,,nan
+474,02-11-2017,Freshboxx,Food & Beverages,Online Grocery Store,Bengaluru,Jayant Humbarwadi,Seed Round,,nan
+475,03-11-2017,Vagupu,Education,Online Tutorial Marketplace,Bengaluru,Group of investors (undisclosed),Seed Round,1000000,nan
+476,03-11-2017,HalaPlay,Media & Entertainment,Online Fantasy Games,Mumbai,"Kae Capital, Nazara Technologies Pvt Ltd",Seed Round,,nan
 477,03-11-2017,Kalpnik Technologies,Technology,VR based Spiritual platform,Bengaluru,Venture Catalysts,Seed Round,500000,nan
 478,04-11-2017,Hevo Data,Technology,Real time data analytics & reporting,Bengaluru,IDG Ventures India,Private Equity Round,1000000,nan
-479,06-11-2017,Smart Karma,Technology,Financial Technology Research Platform,Bengaluru,IDG Ventures India,Private Equity Round,,nan
-480,06-11-2017,Leverage Edu,E-Commerce,Online platform for Higher Education Services,New Delhi,"Alok Mittal, Deepak Jain, Ritesh Malik, Jim Schimdktke",Seed Round,,nan
+479,06-11-2017,SmartKarma,Information Technology,Financial Technology Research Platform,Bengaluru,IDG Ventures India,Private Equity Round,,nan
+480,06-11-2017,Leverage Edu,Ed-Tech,Online platform for Higher Education Services,New Delhi,"Alok Mittal, Deepak Jain, Ritesh Malik, Jim Schimdktke",Seed Round,,nan
 481,07-11-2017,Crayon Data,Technology,Customer Engagement Platform,New Delhi,Kris Gopalakrishnan,Seed Round,,nan
-482,07-11-2017,DocTalk,Technology,Doctor Patient Communication platform,Mumbai,"Matrix Partners India, Khosla Ventures",Private Equity Round,5000000,nan
+482,07-11-2017,DocTalk,Healthcare,Doctor Patient Communication platform,Mumbai,"Matrix Partners India, Khosla Ventures",Private Equity Round,5000000,nan
 483,07-11-2017,CoveIoT,Technology,Wearable tech and Internet of Things platform,Bengaluru,"Titan Co Ltd, Tata Group's watch , jewellery retailing firm",Private Equity Round,5000000,nan
-484,08-11-2017,TalentEdge,Technology,Distance Education Learning Platform,Bengaluru,Lumis Partners,Private Equity Round,7600000,nan
-485,08-11-2017,Fisdom,Finance,Mutual Fund Investment App,Bengaluru,Quona Capital,Private Equity Round,3000000,nan
-486,08-11-2017,FarmLink,E-Commerce,Online platform for Agricultural products,Mumbai,"Pioneering Ventures, Syngenta AG",Private Equity Round,3000000,nan
+484,08-11-2017,TalentEdge,Ed-Tech,Distance Education Learning Platform,Bengaluru,Lumis Partners,Private Equity Round,7600000,nan
+485,08-11-2017,Fisdom,Financial Services,Mutual Fund Investment App,Bengaluru,Quona Capital,Private Equity Round,3000000,nan
+486,08-11-2017,FarmLink,Food & Beverages,Online platform for Agricultural products,Mumbai,"Pioneering Ventures, Syngenta AG",Private Equity Round,3000000,nan
 487,08-11-2017,OpenApp,Technology,IoT based Tech Startup,Bengaluru,"Axilor Partners, Kumar Vembu",Private Equity Round,3600000,nan
 488,09-11-2017,NoPaperForms,Technology,Enrolment Management Platform,New Delhi,Info Edge (India) Ltd,Seed Round,872000,nan
 489,09-11-2017,Tilite Technologies Pvt. Ltd,Technology,Saas based Corporate Travel Management Solution,Bengaluru,Matrix Partners India,Seed Round,,nan
 490,09-11-2017,Mobiliz AR,Technology,Augmented Reality based Tech platform,Bengaluru,"IDG Ventures India, IDFC-Parampara Fund",Private Equity Round,,nan
 491,10-11-2017,Qubole,Technology,Big Data based analytics platform,Bengaluru,"Singtel Innov8, Harmony Partners",Private Equity Round,25000000,nan
-492,10-11-2017,Happily Unmarried,E-Commerce,Online Gifting platform,New Delhi,Wipro,Private Equity Round,,nan
-493,13-11-2017,Universal Sportsbiz Pvt. Ltd,E-Commerce,Celebrity fashion accessories and merchandise,Mumbai,Accel,Private Equity Round,15000000,nan
-494,14-11-2017,Hungry Foal,E-Commerce,Healthy & Nutrition based snacks online platform,Gurgaon,GAIL India Ltd,Seed Round,,nan
-495,14-11-2017,Active.ai,Technology,AI based Financial Tech platform,Bengaluru,Vertex Ventures,Private Equity Round,8250000,nan
+492,10-11-2017,Happily Unmarried,Retail,Online Gifting platform,New Delhi,Wipro,Private Equity Round,,nan
+493,13-11-2017,Universal Sportsbiz Pvt. Ltd,Retail,Celebrity fashion accessories and merchandise,Mumbai,Accel,Private Equity Round,15000000,nan
+494,14-11-2017,Hungry Foal,Food & Beverages,Healthy & Nutrition based snacks online platform,Gurgaon,GAIL India Ltd,Seed Round,,nan
+495,14-11-2017,Active.ai,Financial Services,AI based Financial Tech platform,Bengaluru,Vertex Ventures,Private Equity Round,8250000,nan
 496,15-11-2017,Sumeru,Technology,Banking Software License Platform,Bengaluru,Group of investors (undisclosed),Seed Round,900000,nan
 497,15-11-2017,ElderAid Wellness,Healthcare,Social Healthcare Enterprise,Bengaluru,Rugmini Menon,Seed/Angel Round,,nan
-498,15-11-2017,Omnia Information,Technology,WiFi Analytics Platform,New Delhi,Omidyar Network,Private Equity Round,3000000,nan
-499,15-11-2017,Josh Talks,Inspiration,Storytelling platform,Gurgaon,"Girish Mathrubootham, Apurva Chamaria, Rohit Chanana",Private Equity Round,,nan
-500,15-11-2017,Reniso,Technology,End-to-End property management for landlords living away,New Delhi,"Nishit Sharma, Alok Srivastava",Seed Round,,nan
-501,17-11-2017,Kanhaiya,Inspiration,Storytelling platform,Hyderabad,Group of investors (undisclosed),Seed/Angel Round,200000,nan
-502,17-11-2017,Perspectico,Technology,Placement preparation and career growth training platform,New Delhi,"SSCBS Innovation, Incubation Foundation (SIIF)",Seed/Angel Round,,nan
-503,20-11-2017,ONN Bikes,Technology,Self riding bike rental program,Mumbai,Z Nation Lab,Seed/Angel Round,692000,nan
+498,15-11-2017,Omnia Information,Financial Services,WiFi Analytics Platform,New Delhi,Omidyar Network,Private Equity Round,3000000,nan
+499,15-11-2017,Josh Talks,Ed-Tech,Storytelling platform,Gurgaon,"Girish Mathrubootham, Apurva Chamaria, Rohit Chanana",Private Equity Round,,nan
+500,15-11-2017,Reniso,Real Estate,End-to-End property management for landlords living away,New Delhi,"Nishit Sharma, Alok Srivastava",Seed Round,,nan
+501,17-11-2017,Kanhaiya,Publishing,Storytelling platform,Hyderabad,Group of investors (undisclosed),Seed/Angel Round,200000,nan
+502,17-11-2017,Perspectico,Education,Placement preparation and career growth training platform,New Delhi,"SSCBS Innovation, Incubation Foundation (SIIF)",Seed/Angel Round,,nan
+503,20-11-2017,ONN Bikes,Automotive Services platform,Self riding bike rental program,Mumbai,Z Nation Lab,Seed/Angel Round,692000,nan
 504,21-11-2017,Rapido,Transportation,Bike and Taxi pooling online platform,Hyderabad,"Skycatcher Fund, Aravind Sanka",Seed/Angel Round,329230,nan
-505,21-11-2017,Heckyl,Technology,Big Data Analytics Platform,Mumbai,"Notion Capital, IDG Ventures India",Private Equity Round,2700000,nan
-506,21-11-2017,Nuvepro,Technology,Managed Cloud Environment Solutions,Mumbai,1Crowd,Seed/Angel Round,400000,nan
-507,21-11-2017,RedBook,Technology,AI based pharmacy drugs insights platform,Mumbai,"Vida Ventures, Dr. Aniruddha Malpani",Seed/Angel Round,250000,nan
+505,21-11-2017,Heckyl,Financial Services,Big Data Analytics Platform,Mumbai,"Notion Capital, IDG Ventures India",Private Equity Round,2700000,nan
+506,21-11-2017,Nuvepro,Ed-Tech,Managed Cloud Environment Solutions,Mumbai,1Crowd,Seed/Angel Round,400000,nan
+507,21-11-2017,RedBook,Healthcare,AI based pharmacy drugs insights platform,Mumbai,"Vida Ventures, Dr. Aniruddha Malpani",Seed/Angel Round,250000,nan
 508,21-11-2017,Portea,Healthcare,Healthcare facilities at doorstep,Bengaluru,"Sabre Partners, MEMG CDC",Private Equity Round,26000000,nan
-509,21-11-2017,Credit Mate,Technology,Vehicle loan approval platform,Mumbai,Paytm,Private Equity Round,,nan
-510,21-11-2017,Epiq Capital,Finance,Tech based investor firm,Mumbai,Global Institutional Investors,Private Equity Round,200000000,nan
-511,22-11-2017,MiStay,Technology,Online Hotel Reservation Platform,Bengaluru,Axilor Partners,Seed/Angel Round,,nan
-512,23-11-2017,WittyFeed,Storytelling,Viral Content and storytelling platform,Indore,Sandeep Aggarwal,Seed/Angel Round,,nan
-513,24-11-2017,IDG Ventures India,Finance,Venture Capitalist,Bengaluru,Uniliver Ventures,Private Equity Round,10000000,nan
+509,21-11-2017,Credit Mate,Financial Services,Vehicle loan approval platform,Mumbai,Paytm,Private Equity Round,,nan
+510,21-11-2017,Epiq Capital,Financial Services,Tech based investor firm,Mumbai,Global Institutional Investors,Private Equity Round,200000000,nan
+511,22-11-2017,MiStay,Hospitality,Online Hotel Reservation Platform,Bengaluru,Axilor Partners,Seed/Angel Round,,nan
+512,23-11-2017,WittyFeed,Media & Entertainment,Viral Content and storytelling platform,Indore,Sandeep Aggarwal,Seed/Angel Round,,nan
+513,24-11-2017,IDG Ventures India,Financial Services,Venture Capitalist,Bengaluru,Uniliver Ventures,Private Equity Round,10000000,nan
 514,24-11-2017,TempoGo,Technology,IoT and SaaS based transportation platform,Goa,Javelin StartupO Victory Fund,Seed/Angel Round,250000,nan
-515,27-11-2017,Edelweiss Financial Services,Finance,Diversified Financial,Mumbai,Group of investors (undisclosed),Private Equity Round,270000000,nan
+515,27-11-2017,Edelweiss Financial Services,Financial Services,Diversified Financial,Mumbai,Group of investors (undisclosed),Private Equity Round,270000000,nan
 516,27-11-2017,ERA,Technology,Identity management platform,Mumbai,Amit Patni,Seed/Angel Round,39000,nan
 517,27-11-2017,Smaaash,Technology,Virtual Reality based gaming platform,Mumbai,Sixth Sense Ventures,Private Equity Round,3800000,nan
-518,28-11-2017,Chumbak,Lifestyle,Designer-led consumer products,Bengaluru,Gaja Capital,Private Equity Round,13000000,nan
-519,28-11-2017,FR8,Technology,Online Truck aggregator platform,Chennai,IFMR Capital Finance,Debt Funding,1500000,nan
+518,28-11-2017,Chumbak,Retail,Designer-led consumer products,Bengaluru,Gaja Capital,Private Equity Round,13000000,nan
+519,28-11-2017,FR8,Logistics Services Provider,Online Truck aggregator platform,Chennai,IFMR Capital Finance,Debt Funding,1500000,nan
 520,28-11-2017,Mobiefit,Health and Wellness,Health and fitness based mobile App,Goa,"NB Ventures, Medi Assist",Seed/Angel Round,1350000,nan
-521,28-11-2017,Stanza Living,Technology,Student accommodation platform,New Delhi,"Matrix Partners India, Accel",Private Equity Round,2000000,nan
-522,03-10-2017,ChqBook,Consumer Internet,Home Loans Aggregation platform,Gurgaon,"Startup Buddy, Apurva Chamaria,Sachin Arora, Bharat Gupta, Amit Manocha",Seed Round,,nan
-523,03-10-2017,HomeCapital,Consumer Internet,Home Loan Down payment assistance program,Mumbai,Venture Catalysts,Seed Round,,nan
+521,28-11-2017,Stanza Living,Hospitality,Student accommodation platform,New Delhi,"Matrix Partners India, Accel",Private Equity Round,2000000,nan
+522,03-10-2017,ChqBook,Financial Services,Home Loans Aggregation platform,Gurgaon,"Startup Buddy, Apurva Chamaria,Sachin Arora, Bharat Gupta, Amit Manocha",Seed Round,,nan
+523,03-10-2017,HomeCapital,Information Technology,Home Loan Down payment assistance program,Mumbai,Venture Catalysts,Seed Round,,nan
 524,03-10-2017,Ola Cabs,Transportation,App based cab hailing services,Bengaluru,"Tencent,SoftBank Group",Private Equity Round,110000000,nan
-525,04-10-2017,Elanic,Consumer Internet,P2P platform for Fashion sales,Bengaluru,Digital Garage Inc,Seed Round,,nan
-526,04-10-2017,CollPoll,Consumer Internet,Education collaboration platform,Bengaluru,Sprout Angels LLP,Seed Round,306000,nan
+525,04-10-2017,Elanic,Healthcare,P2P platform for Fashion sales,Bengaluru,Digital Garage Inc,Seed Round,,nan
+526,04-10-2017,CollPoll,Information Technology,Education collaboration platform,Bengaluru,Sprout Angels LLP,Seed Round,306000,nan
 527,04-10-2017,PhonePe,FinTech,Digital Wallet,Bengaluru,Flipkart,Private Equity Round,38700000,nan
-528,05-10-2017,Little Black Book,Consumer Internet,Local Recommendations and Discoveries Platform,New Delhi,"Blume Ventures, IDG Ventures India, Indian Angel Network (IAN)",Private Equity Round,1000000,nan
+528,05-10-2017,Little Black Book,Internet,Local Recommendations and Discoveries Platform,New Delhi,"Blume Ventures, IDG Ventures India, Indian Angel Network (IAN)",Private Equity Round,1000000,nan
 529,05-10-2017,Oorjan,Technology,rooftop solar platform,Mumbai,Globevestor,Seed Round,450000,nan
 530,05-10-2017,Zefo,E-Commerce,E-Commerce Portal for Used Goods,Bengaluru,"Sequoia India, Helion Venture Partners, BEENEXT",Private Equity Round,9200000,nan
-531,06-10-2017,Yaantra,E-Commerce,Mobile repair and Refurbishment platform,New Delhi,Carpediem Capital,Private Equity Round,3100000,nan
+531,06-10-2017,Yaantra,Information Technology,Mobile repair and Refurbishment platform,New Delhi,Carpediem Capital,Private Equity Round,3100000,nan
 532,06-10-2017,Farm Taaza,Technology,Fresh Produce SCM company,Bengaluru,"Epsilon Venture Partners, Tara India Fund IV ",Private Equity Round,8000000,nan
-533,06-10-2017,Drivezy,Consumer Internet,Self Drive car and bike rental platform,Bengaluru,"Das Capital, Axan Partners, Das Capital , IT Farm",Private Equity Round,10000000,nan
-534,06-10-2017,Slice Pay,Consumer Internet,Student Micro-financing platform,Bengaluru,"Das Capital, Simile Ventures",Private Equity Round,2000000,nan
-535,09-10-2017,Agrowave,Technology,Agriculture Supply Chain management solutions,Gurgaon,Daffodil Software,Seed Round,,nan
-536,09-10-2017,MyGubbi,E-Commerce,Home Interior Designing Seller,Bengaluru,"Firoze Irani, Vipul Parekh, Ananda Kallugadde, Rajesh K Murthy",Private Equity Round,2700000,nan
-537,09-10-2017,IBSFinancial Tech,Technology,Treasury Risk Management Solution,Bengaluru,Shailesh Haribhakti,Seed Round,,nan
-538,09-10-2017,Letsservice,Consumer Internet,Auto Service Logistics & SAAS platform,Bengaluru,Aequs Group,Private Equity Round,,nan
-539,09-10-2017,OneStepUp,Technology,Education Technology platform,New Delhi,Orient BlackSwan,Seed Round,336000,nan
+533,06-10-2017,Drivezy,TourismTravel,Self Drive car and bike rental platform,Bengaluru,"Das Capital, Axan Partners, Das Capital , IT Farm",Private Equity Round,10000000,nan
+534,06-10-2017,Slice Pay,FinTech,Student Micro-financing platform,Bengaluru,"Das Capital, Simile Ventures",Private Equity Round,2000000,nan
+535,09-10-2017,Agrowave,Logistics Services Provider,Agriculture Supply Chain management solutions,Gurgaon,Daffodil Software,Seed Round,,nan
+536,09-10-2017,MyGubbi,Technology,Home Interior Designing Seller,Bengaluru,"Firoze Irani, Vipul Parekh, Ananda Kallugadde, Rajesh K Murthy",Private Equity Round,2700000,nan
+537,09-10-2017,IBS,FinTech,Treasury Risk Management Solution,Bengaluru,Shailesh Haribhakti,Seed Round,,nan
+538,09-10-2017,Letsservice,Automotive Services platform,Auto Service Logistics & SAAS platform,Bengaluru,Aequs Group,Private Equity Round,,nan
+539,09-10-2017,OneStepUp,Non-profit Organization Management,Education Technology platform,New Delhi,Orient BlackSwan,Seed Round,336000,nan
 540,09-10-2017,ThirdWatch,Technology,AI-powered anti-fraud solutions,Gurgaon,"Rahul Agarwal, Keshav Sanghi, Batlivala & Karani Securities",Seed Round,,nan
 541,10-10-2017,Parallel Dots,Technology,AI-powered deep learning solutions,Gurgaon,Multipoint Capital,Private Equity Round,1400000,nan
-542,10-10-2017,Easy Diner,Consumer Internet,online restaurant reservation platform,Gurgaon,"Saama Capital , DSG Consumer Partners",Private Equity Round,4500000,nan
+542,10-10-2017,Easy Diner,Hospitality,online restaurant reservation platform,Gurgaon,"Saama Capital , DSG Consumer Partners",Private Equity Round,4500000,nan
 543,11-10-2017,Meesho,E-Commerce,Online Reseller Network,Bengaluru,"SAIF Partners, Y Combinator, Venture Highway",Private Equity Round,3100000,nan
-544,11-10-2017,StanPlus,Logistics,Medical Transportation Services,Hyderabad,Kstart Capital,Private Equity Round,1100000,nan
+544,11-10-2017,StanPlus,Healthcare,Medical Transportation Services,Hyderabad,Kstart Capital,Private Equity Round,1100000,nan
 545,12-10-2017,UCLID,Technology,Education Network for Institutions & teachers & Students,Hyderabad,Group of investors (undisclosed),Seed Round,235000,nan
 546,13-10-2017,Policybazaar,FinTech,Online insurance policy aggregator,Gurgaon,"Wellington Management, DG Ventures India, True North",Private Equity Round,77000000,nan
-547,13-10-2017,Gapoon,Consumer Internet,home maintenance services platform,Bengaluru,"Vida Ventures, Snehal Mantri, Anshu Bahadur",Seed Round,250000,nan
-548,13-10-2017,Chaayos,E-Commerce,Online Chai ordering platform,Gurgaon,Tiger Global Management,Private Equity Round,2000000,nan
+547,13-10-2017,Gapoon,Consumer Services,home maintenance services platform,Bengaluru,"Vida Ventures, Snehal Mantri, Anshu Bahadur",Seed Round,250000,nan
+548,13-10-2017,Chaayos,Food & Beverages,Online Chai ordering platform,Gurgaon,Tiger Global Management,Private Equity Round,2000000,nan
 549,16-10-2017,KrazyBee,Financial Services,Micro-lending platform,Bengaluru,"Xiaomi, Shunwei Capital",Private Equity Round,8000000,nan
 550,16-10-2017,RenewBuy,Financial Services,Online Insurance Aggregator,New Delhi,Amicus Capital,Private Equity Round,9200000,nan
 551,17-10-2017,Fingerlix,Food & Beverages,Food Ordering Portal,Bengaluru,"Accel, Zephyr Peacock India",Private Equity Round,7000000,nan
-552,18-10-2017,BankBazaar,Consumer Internet,Online Financial Marketplace,Chennai,Experian,Private Equity Round,7000000,nan
+552,18-10-2017,BankBazaar,Financial Services,Online Financial Marketplace,Chennai,Experian,Private Equity Round,7000000,nan
 553,18-10-2017,Hasura,Technology,App building platform,Chennai,"Nexus Venture Partners, GREE Ventures",Private Equity Round,,nan
 554,18-10-2017,BlackBuck,Logistics Services Provider,B2B Logistics provider,Bengaluru,InnoVen Capital India,Private Equity Round,7700000,nan
-555,18-10-2017,LenDenClub,Consumer Internet,Online peer-to-peer lending platform,Mumbai,Group of investors (undisclosed),Seed Round,500000,nan
+555,18-10-2017,LenDenClub,Financial Services,Online peer-to-peer lending platform,Mumbai,Group of investors (undisclosed),Seed Round,500000,nan
 556,23-10-2017,Toppr,Ed-Tech,Mobile based learning app,Mumbai,"SAIF Partners, Helion Venture Partners, FIL Capital Management",Private Equity Round,7000000,nan
 557,23-10-2017,Raw Pressery,Food & Beverages,Cold pressed Juice maker,Mumbai,"DSG Consumer Partners, Sequoia India, Saama Capital",Private Equity Round,6000000,nan
 558,23-10-2017,Cashe,Financial Services,app-only lending platform,Mumbai,IFMR Capital Finance,Debt Funding,3100000,nan
-559,23-10-2017,Park Easy,Consumer Internet,Machine learning based parking discovery,Kolkata,Rockstart Accelerator,Seed Round,118000,nan
+559,23-10-2017,Park Easy,Technology,Machine learning based parking discovery,Kolkata,Rockstart Accelerator,Seed Round,118000,nan
 560,24-10-2017,TagBox,Technology,Cold Chain monitoring solution,Bengaluru,"Indian Angel Network (IAN), IAN Fund",Seed Round,,nan
 561,24-10-2017,FYRE,Food & Beverages,Herbal energy shot maker,Mumbai,Venture Catalysts,Seed Round,500000,nan
-562,24-10-2017,ZipLoan,Consumer Internet,SME lending platform,New Delhi,"Matrix Partners India, Waterbridge Ventures, Whiteboard Capital, Sarbvir Singh",Private Equity Round,3000000,nan
-563,24-10-2017,Skillenza,Consumer Internet,Online Learning Platform,Bengaluru,"Blume Ventures, Indian Angel Network (IAN)",Seed Round,722000,nan
+562,24-10-2017,ZipLoan,Financial Services,SME lending platform,New Delhi,"Matrix Partners India, Waterbridge Ventures, Whiteboard Capital, Sarbvir Singh",Private Equity Round,3000000,nan
+563,24-10-2017,Skillenza,Education,Online Learning Platform,Bengaluru,"Blume Ventures, Indian Angel Network (IAN)",Seed Round,722000,nan
 564,24-10-2017,Chevon,Food & Beverages,Frozen Meat provider,Mumbai,Greenfield Advisory,Private Equity Round,,nan
-565,25-10-2017,PropStory,Consumer Internet,Real Estate content portal,Gurgaon,"Abhishek Bhatewara, Vivek Shah, Haitong Securities, Suraj Saharan, Paras Arora",Seed Round,,nan
-566,25-10-2017,SpotDraft,Consumer Internet,Contract Automation,Gurgaon,"Hunch Ventures, Spiral Ventures, 500 Startups,Singapore Angel Network, Citrus Payments",Seed Round,550000,nan
+565,25-10-2017,PropStory,Real Estate,Real Estate content portal,Gurgaon,"Abhishek Bhatewara, Vivek Shah, Haitong Securities, Suraj Saharan, Paras Arora",Seed Round,,nan
+566,25-10-2017,SpotDraft,Technology,Contract Automation,Gurgaon,"Hunch Ventures, Spiral Ventures, 500 Startups,Singapore Angel Network, Citrus Payments",Seed Round,550000,nan
 567,26-10-2017,BigBasket,E-Commerce,Online Grocery portal,Bengaluru,Helion Venture Partners,Private Equity Round,5000000,nan
 568,27-10-2017,Ofbusiness,Financial Services,B2B Finance & Fulfilment Network,Gurgaon,Kotak Mahindra Bank,Debt Funding,3800000,nan
-569,27-10-2017,Olly Credit,Technology,Credit + payment mobile app,New Delhi,"Incubate Fund India, Sandesh Kirkire, Anand Kumar, Yogesh Chaudhary",Seed Round,,nan
-570,28-10-2017,CashFree,Technology,Payments Platform for Marketplaces and Financial Techs,New Delhi,Y Combinator,Seed Round,120000,nan
+569,27-10-2017,Olly Credit,Financial Services,Credit + payment mobile app,New Delhi,"Incubate Fund India, Sandesh Kirkire, Anand Kumar, Yogesh Chaudhary",Seed Round,,nan
+570,28-10-2017,CashFree,Financial Services,Payments Platform for Marketplaces and Financial Techs,New Delhi,Y Combinator,Seed Round,120000,nan
 571,28-10-2017,Ola Cabs,Transportation,App based cab hailing services,Bengaluru,ANI Technologies Pvt. Ltd,Private Equity Round,7700000,nan
 572,30-10-2017,GoldFarm,Food & Beverages,Agriculture Technology,Coimbatore,"Mahindra & Mahindra , Infuse Ventures",Private Equity Round,2000000,nan
 573,31-10-2017,Netmeds.com,Health and Wellness,Online Pharmacy,Chennai,"Tanncam Investment, Sistema Asia Fund",Private Equity Round,14000000,nan
-574,31-10-2017,MSE,Finance,Equity Stock Exchange,Mumbai,"IL&FS, Trust Capital, Rosy Blue Securities, Radhakrishan Damani , Rakesh Jhunjhunwala",Private Equity Round,32000000,nan
+574,31-10-2017,MSE,Financial Services,Equity Stock Exchange,Mumbai,"IL&FS, Trust Capital, Rosy Blue Securities, Radhakrishan Damani , Rakesh Jhunjhunwala",Private Equity Round,32000000,nan
 575,01-09-2017,Aahaa Stores,E-Commerce,Online B2B store for office supplies,Chennai,YourNest Venture Capital,Private Equity Round,1000000,nan
 576,01-09-2017,MFine,Healthcare,Online Doctor Discovery platform,Bengaluru,"Stellaris Venture Partners, Mayur Abhaya, Rohit MA",Private Equity Round,1500000,nan
-577,01-09-2017,Canvera,Consumer Internet,Online Photography platform,Mumbai,InfoEdge,Private Equity Round,1300000,nan
+577,01-09-2017,Canvera,E-Commerce,Online Photography platform,Mumbai,InfoEdge,Private Equity Round,1300000,nan
 578,04-09-2017,PrimaryIO,Technology,Application Performance Acceleration,Pune,"Accel, Exfinity Venture Partners, Partech Ventures",Private Equity Round,5600000,nan
 579,05-09-2017,Shubh Loans,FinTech,online lending platform,Bengaluru,"SRI Capital, BEENEXT, Pravega Ventures",Private Equity Round,1500000,nan
-580,05-09-2017,Nest Education,Technology,EduTech Platform,Gurgaon,"Michael & Susan Dell Foundation, Anand Mahindra",Seed Round,600000,nan
-581,06-09-2017,Lendingkart,Consumer Internet,Online Lending Platform,Ahmedabad,"Bertelsmann India Investments, Mayfield India II Management Ltd, Saama Capital, Darrin Capital",Private Equity Round,10750000,nan
-582,06-09-2017,GoFro,Consumer Internet,Online travel booking platform,New Delhi,"HIS Co. Ltd, MakeMyTrip",Private Equity Round,10000000,nan
+580,05-09-2017,Nest Education,Ed-Tech,EduTech Platform,Gurgaon,"Michael & Susan Dell Foundation, Anand Mahindra",Seed Round,600000,nan
+581,06-09-2017,Lendingkart,Financial Services,Online Lending Platform,Ahmedabad,"Bertelsmann India Investments, Mayfield India II Management Ltd, Saama Capital, Darrin Capital",Private Equity Round,10750000,nan
+582,06-09-2017,GoFro,TourismTravel,Online travel booking platform,New Delhi,"HIS Co. Ltd, MakeMyTrip",Private Equity Round,10000000,nan
 583,06-09-2017,OncoStem,Healthcare,Medical Diagnostic Solutions,Bengaluru,"Sequoia India, Artiman Ventures",Private Equity Round,6000000,nan
 584,06-09-2017,Power2SME,E-Commerce,Buying Club for Small Businesses,Gurgaon,"International Finance Corporation (IFC), Inventus Capital Partners, Accel, Kalaari Capital, Nandan Nilekani",Private Equity Round,26000000,nan
-585,07-09-2017,Credit Vidya,Consumer Internet,Online Credit scoring platform,Mumbai,Matrix Partners India,Private Equity Round,5000000,nan
-586,07-09-2017,Tailslife,Consumer Internet,Pet care portal & mobile app,Bengaluru,V Balakrishnan,Private Equity Round,,nan
+585,07-09-2017,Credit Vidya,Financial Services,Online Credit scoring platform,Mumbai,Matrix Partners India,Private Equity Round,5000000,nan
+586,07-09-2017,Tailslife,Technology,Pet care portal & mobile app,Bengaluru,V Balakrishnan,Private Equity Round,,nan
 587,07-09-2017,Oyo,Hospitality,Budget Accommodation Platform,Gurgaon,"SoftBank Group, Sequoia India, Lightspeed Venture Partners India, Greenoaks Capital, Hero Enterprise",Private Equity Round,250000000,nan
 588,07-09-2017,EarlySalary,Financial Services,Online Unsecured Lending platform,Pune,IFMR Capital Finance,Debt Funding,780000,nan
 589,07-09-2017,MamaEarth,E-Commerce,online babycare products marketplace,Gurgaon,Fireside Ventures,Seed Round,,nan
-590,07-09-2017,Seniority,E-Commerce,E-Commerce portal for senior citizens,Pune,RPG Enterprises,Private Equity Round,1000000,nan
+590,07-09-2017,Seniority,Retail,E-Commerce portal for senior citizens,Pune,RPG Enterprises,Private Equity Round,1000000,nan
 591,08-09-2017,Aye Finance,Financial Services,Micro Lending Platform,New Delhi,Triodos Investment Management,Debt Funding,6900000,nan
 592,08-09-2017,Farmizen,Technology,Agre-Tech Mobile app,Bengaluru,"Venture Highway, Alok Mittal, Mohit Agarwal, Anuj Gupta",Seed Round,,nan
-593,11-09-2017,Ecom Express,Logistics,Logistics Solutions provider,New Delhi,Warburg Pincus,Private Equity Round,30000000,nan
-594,11-09-2017,Call Health,Consumer Internet,Healthcare Services Aggregator,Hyderabad,"Sachin Tendulkar, P.V SIndhu, Pullela Gopichand",Private Equity Round,6200000,nan
-595,12-09-2017,Sattviko,E-Commerce,Health Food etailer,New Delhi,"Raman Roy, Arvind Uppal, Sonu Bhasin, G Ravishankar",Seed Round,,nan
+593,11-09-2017,Ecom Express,Logistics Services Provider,Logistics Solutions provider,New Delhi,Warburg Pincus,Private Equity Round,30000000,nan
+594,11-09-2017,Call Health,Healthcare,Healthcare Services Aggregator,Hyderabad,"Sachin Tendulkar, P.V SIndhu, Pullela Gopichand",Private Equity Round,6200000,nan
+595,12-09-2017,Sattviko,Food & Beverages,Health Food etailer,New Delhi,"Raman Roy, Arvind Uppal, Sonu Bhasin, G Ravishankar",Seed Round,,nan
 596,12-09-2017,3HCare,Healthcare,Healthcare services portal,New Delhi,Group of investors (undisclosed),Seed Round,100000,nan
-597,12-09-2017,Tonbo Imaging,Technology,Imaging Technology for Armed Forces,Bengaluru,"WRV Capital, Qualcomm Ventures, Edelweiss Financial Services, Artiman Ventures",Private Equity Round,17000000,nan
-598,12-09-2017,Get My Parking,Consumer Internet,Smart Parking Enabler,New Delhi,"IAN Fund, BEENEXT, Indian Angel Network (IAN)",Private Equity Round,3000000,nan
-599,13-09-2017,WittyFeed,Technology,Content marketing platform,Indore,"Anand Chandrasekaran, Apurva Chamaria, Ritesh Malik, Ashish Toshniwal, Ajeet Khurana",Seed Round,,nan
+597,12-09-2017,Tonbo Imaging,Defense and Space,Imaging Technology for Armed Forces,Bengaluru,"WRV Capital, Qualcomm Ventures, Edelweiss Financial Services, Artiman Ventures",Private Equity Round,17000000,nan
+598,12-09-2017,Get My Parking,Technology,Smart Parking Enabler,New Delhi,"IAN Fund, BEENEXT, Indian Angel Network (IAN)",Private Equity Round,3000000,nan
+599,13-09-2017,WittyFeed,Media & Entertainment,Content marketing platform,Indore,"Anand Chandrasekaran, Apurva Chamaria, Ritesh Malik, Ashish Toshniwal, Ajeet Khurana",Seed Round,,nan
 600,13-09-2017,Glowroad,E-Commerce,women focussed customer-to-customer reseller network,Bengaluru,Accel,Private Equity Round,2000000,nan
 601,13-09-2017,Oyo,Hospitality,udget hotel marketplace,Gurgaon,China Lodging Group,Private Equity Round,10000000,nan
 602,13-09-2017,Unacademy,Ed-Tech,Online learning platform,Mumbai,"Sequoia India, SAIF Partners, Nexus Venture Partners , Blume Ventures",Private Equity Round,11500000,nan
 603,13-09-2017,Heterogenous,Technology,Telecom & IoT platform,Chennai,"The Chennai Angels, Keiretsu Forum",Seed Round,780000,nan
-604,14-09-2017,Gurukul,Consumer Internet,co-working space provider,New Delhi,"Rohit Nanda, Rajit Nanda, Smarak Bhuyan, Sashwat Brahma",Seed Round,,nan
+604,14-09-2017,Gurukul,Facilities Support Services,co-working space provider,New Delhi,"Rohit Nanda, Rajit Nanda, Smarak Bhuyan, Sashwat Brahma",Seed Round,,nan
 605,14-09-2017,Smaaash,Technology,Virtual Reality gaming and entertainment platform,Mumbai,ECL Finance,Private Equity Round,44000000,nan
-606,14-09-2017,Wheelstreet,Consumer Portal,Bike Rental Platform,Bengaluru,Y Combinator,Seed Round,120000,nan
-607,14-09-2017,Xprep,Consumer Internet,Online Tutoring Platform,New Delhi,"Rising Stars, Manish Amin, Pallav Pandey, Chavi Jafa",Private Equity Round,,nan
+606,14-09-2017,Wheelstreet,TourismTravel,Bike Rental Platform,Bengaluru,Y Combinator,Seed Round,120000,nan
+607,14-09-2017,Xprep,Ed-Tech,Online Tutoring Platform,New Delhi,"Rising Stars, Manish Amin, Pallav Pandey, Chavi Jafa",Private Equity Round,,nan
 608,18-09-2017,The Moms Co.,E-Commerce,Pregnancy & Baby Care product etailer,Gurgaon,"DSG Consumer Partners, Saama Capital",Private Equity Round,1000000,nan
 609,19-09-2017,Noticeboard,Technology,mobile-first communication platform for on-field staff,Bengaluru,"Shamik Sharma, Aprameya Radhakrishna",Seed Round,,nan
 610,19-09-2017,HighRadius,Technology,Integrated receivables software solutions,Hyderabad,Susquehanna Growth Equity LLC,Private Equity Round,50000000,nan
 611,20-09-2017,HWell24 Plus,Healthcare,Technology-Empowered Healthcare Solutions,Mumbai,Group of investors (undisclosed),Seed Round,,nan
 612,21-09-2017,SaveBC,Finance,financial services firm,Gaya,Incofin Investment Management,Private Equity Round,6000000,nan
-613,21-09-2017,Gaming Monk,Consumer Internet,E-sports platform,New Delhi,AdvantEdge Partners,Private Equity Round,,nan
-614,21-09-2017,91springboard,Consumer Internet,Co-working spaces,New Delhi,"S,way Investment Ltd, Pearl Brook Holdings, Silo Holdings , AL Nour International Holdings",Private Equity Round,,nan
+613,21-09-2017,Gaming Monk,Media & Entertainment,E-sports platform,New Delhi,AdvantEdge Partners,Private Equity Round,,nan
+614,21-09-2017,Springboard,Ed-Tech,Co-working spaces,New Delhi,"S,way Investment Ltd, Pearl Brook Holdings, Silo Holdings , AL Nour International Holdings",Private Equity Round,,nan
 615,21-09-2017,Homergize,E-Commerce,Home Furnishing & Building material marketplace,Bengaluru,LG Chandrasekhar,Private Equity Round,1000000,nan
 616,22-09-2017,Yatra.com,E-Commerce,Online Travel Agency,Gurgaon,InnoVen Capital India,Debt Funding,15400000,nan
 617,22-09-2017,Ace Turtle,Technology,Omni-channel web commerce solutions provider,Bengaluru,InnoVen Capital India,Private Equity Round,,nan
 618,25-09-2017,Vogo Automotive Pvt. Ltd.,Transportation,Scooter Rental Platform,Bengaluru,AV Thomas Group,Seed Round,,nan
 619,25-09-2017,Synup,Technology,SME Marketing Management Solution,Bengaluru,"Vertex Ventures, Prime Venture Partners",Private Equity Round,6000000,nan
-620,25-09-2017,Tinmen,Consumer Internet,Food Delivery platform,Hyderabad,Zomato Media Pvt. Ltd,Private Equity Round,,nan
+620,25-09-2017,Tinmen,Food & Beverages,Food Delivery platform,Hyderabad,Zomato Media Pvt. Ltd,Private Equity Round,,nan
 621,25-09-2017,CropIn,Technology,Crop Technology Solutions,Bengaluru,BEENEXT,Private Equity Round,,nan
 622,25-09-2017,Rapido,Transportation,Bike Aggregator Mobile App,Bengaluru,Battery Road Digital Holdings LLC,Seed Round,422000,nan
-623,25-09-2017,Sportobuddy,Consumer Internet,Sports & Sport related equipment portal,Mumbai,Mehul Shah,Seed Round,150000,nan
-624,26-09-2017,Credifiable,Consumer Internet,Online consumer lending platform,Bengaluru,Kae Capital,Private Equity Round,,nan
-625,26-09-2017,Inclov,Consumer Internet,Matchmaking app for the differently abled,Gurgaon,"Rajan Anandan, Jamil Khatri, Ravi Iyer, Raghav Bahl",Seed Round,,nan
-626,26-09-2017,Multibhashi,Consumer Internet,Language learning Mobile App,Bengaluru,"Aniruddha Malpani, Startup Oasis",Seed Round,,nan
+623,25-09-2017,Sportobuddy,Sporting Goods,Sports & Sport related equipment portal,Mumbai,Mehul Shah,Seed Round,150000,nan
+624,26-09-2017,Credifiable,FinTech,Online consumer lending platform,Bengaluru,Kae Capital,Private Equity Round,,nan
+625,26-09-2017,Inclov,Internet,Matchmaking app for the differently abled,Gurgaon,"Rajan Anandan, Jamil Khatri, Ravi Iyer, Raghav Bahl",Seed Round,,nan
+626,26-09-2017,Multibhashi,Ed-Tech,Language learning Mobile App,Bengaluru,"Aniruddha Malpani, Startup Oasis",Seed Round,,nan
 627,27-09-2017,Transerve,Technology,Geospatial Technology-based SaaS solutions,Mumbai,"IL&FS, Omidyar Network",Private Equity Round,1600000,nan
-628,27-09-2017,Fashalot,Consumer Internet,O2O fashion discovery platform,Gurgaon,"Capillary Technologies, Whiteboard Capital, YourNest Venture Capital, Rajul Garg",Private Equity Round,,nan
-629,27-09-2017,Pitstop,Consumer Internet,Car repair and Servicing Platform,Bengaluru,"Blume Ventures, Goldbell Group, Anurag Srivastava, Shailesh Rao, Amiya Pathak, Rajesh Yohanan , Rahul Garg",Private Equity Round,1000000,nan
-630,27-09-2017,GoChoppers,Consumer Internet,Luxury Helicopter Tourism Services portal,Gurgaon,Rivergate Capital,Seed Round,,nan
+628,27-09-2017,Fashalot,E-Commerce,O2O fashion discovery platform,Gurgaon,"Capillary Technologies, Whiteboard Capital, YourNest Venture Capital, Rajul Garg",Private Equity Round,,nan
+629,27-09-2017,Pitstop,Automotive Services platform,Car repair and Servicing Platform,Bengaluru,"Blume Ventures, Goldbell Group, Anurag Srivastava, Shailesh Rao, Amiya Pathak, Rajesh Yohanan , Rahul Garg",Private Equity Round,1000000,nan
+630,27-09-2017,GoChoppers,TourismTravel,Luxury Helicopter Tourism Services portal,Gurgaon,Rivergate Capital,Seed Round,,nan
 631,27-09-2017,MyUpchar,Health and Wellness,Local Language Health Information portal,New Delhi,LetsVenture,Seed Round,300000,nan
 632,28-09-2017,Aadyah,Technology,Defense Tech & Aerospace startup,Bengaluru,Keiretsu Forum,Private Equity Round,1000000,nan
 633,01-08-2017,Touchkin,Technology,Predictive Care Platform,Bengaluru,Kae Capital,Private Equity Round,1300000,nan
 634,02-08-2017,Ethinos,Technology,Digital Marketing Agency,Mumbai,Triton Investment Advisors,Private Equity Round,,nan
-635,02-08-2017,Leverage Edu,Consumer Internet,Online platform for Higher Education Services,New Delhi,"Kashyap Deorah, Anand Sankeshwar, Deepak Jain, Sadashiva NT, Arjun Mehta, Satish Kaul, Anindya Ghose",Seed Round,,nan
-636,02-08-2017,Zepo,Consumer Internet,DIY E-Commerce platform,Mumbai,"Kunal Shah, LetsVenture, Anupam Mittal, Hetal Sonpal",Seed Round,500000,nan
-637,02-08-2017,Click2Clinic,Consumer Internet,healthcare service aggregator,Hyderabad,"Narottam Thudi, Shireesh Palle",Seed Round,850000,nan
+635,02-08-2017,Leverage Edu,Ed-Tech,Online platform for Higher Education Services,New Delhi,"Kashyap Deorah, Anand Sankeshwar, Deepak Jain, Sadashiva NT, Arjun Mehta, Satish Kaul, Anindya Ghose",Seed Round,,nan
+636,02-08-2017,Zepo,Technology,DIY E-Commerce platform,Mumbai,"Kunal Shah, LetsVenture, Anupam Mittal, Hetal Sonpal",Seed Round,500000,nan
+637,02-08-2017,Click2Clinic,Health and Wellness,healthcare service aggregator,Hyderabad,"Narottam Thudi, Shireesh Palle",Seed Round,850000,nan
 638,03-08-2017,SpeedBox,Logistics,On-Demand Logistics Service provider,Mumbai,Cismat Cargo Services Pvt. Ltd.,Seed Round,300000,nan
-639,03-08-2017,Skill Connect,Consumer Internet,Recruitment Portal,Jaipur,Rajasthan Angel Investor Network,Seed Round,,nan
-640,03-08-2017,Chai Point,Consumer Internet,Tea Delivery Portal & offline stores,Bengaluru,"DSG Consumer Partners, Eight Roads Ventures India",Private Equity Round,,nan
+639,03-08-2017,Skill Connect,Staffing & Recruiting,Recruitment Portal,Jaipur,Rajasthan Angel Investor Network,Seed Round,,nan
+640,03-08-2017,Chai Point,Food & Beverages,Tea Delivery Portal & offline stores,Bengaluru,"DSG Consumer Partners, Eight Roads Ventures India",Private Equity Round,,nan
 641,03-08-2017,Zoctr,Health and Wellness,Health Products & Services Aggregator,Mumbai,SIDBI Venture Capital,Private Equity Round,,nan
 642,04-08-2017,Lime Tray,Technology,Restaurant Management Solutions,New Delhi,JSW Ventures,Private Equity Round,,nan
 643,04-08-2017,CoutLoot,E-Commerce,Fashion Resale Marketplace,Mumbai,"Anuj Puri, Redcliffe Capital, Artha India Ventures, Siddharth Kothari, Apoorv Ranjan Sharma",Seed Round,,nan
 644,04-08-2017,Boxmyspace,Logistics,Warehouse Aggregator,Mumbai,"R. Jayakumar, Vaibhav Vohra, Aditya Vazirani, Rhea Vazirani, AVN Business Solutions, Dreamweaver Investments",Seed Round,,nan
 645,05-08-2017,Curatio,Healthcare,Skincare Speciality services,Chennai,Anicut Capital,Private Equity Round,,nan
 646,08-08-2017,New Castle Technologies,Technology,Hospital Management Software,Chennai,Group of investors (undisclosed),Seed Round,243000,nan
-647,08-08-2017,My Forex Eye,Consumer Internet,foreign exchange services,New Delhi,"Rahul Dev Kumar, Rajesh Mahajan, Ankit Sharma",Seed Round,220000,nan
+647,08-08-2017,My Forex Eye,Financial Services,foreign exchange services,New Delhi,"Rahul Dev Kumar, Rajesh Mahajan, Ankit Sharma",Seed Round,220000,nan
 648,09-08-2017,TruxApp,Logistics,Mobile based Logistics Service,New Delhi,"Venugopal Dhoot, Ajay Bhatia, Tarun Khandelwal, Ganpat Singhvi, Mandhian family",Seed Round,3100000,nan
 649,09-08-2017,Crofarm,Technology,Agriculture Supply Chain solutions,Gurgaon,Factor[e] Ventures,Seed Round,783000,nan
-650,09-08-2017,DoodhWala,Consumer Internet,Online milk delivery,Bengaluru,Tom Varkey,Seed Round,,nan
-651,10-08-2017,Stayabode,Consumer Internet,Co-Living space aggregator,Bengaluru,"Incubate Fund India, Sanjay Shenoy, Mridul Upreti",Private Equity Round,,nan
+650,09-08-2017,DoodhWala,Financial Services,Online milk delivery,Bengaluru,Tom Varkey,Seed Round,,nan
+651,10-08-2017,Stayabode,Real Estate,Co-Living space aggregator,Bengaluru,"Incubate Fund India, Sanjay Shenoy, Mridul Upreti",Private Equity Round,,nan
 652,11-08-2017,Flipkart,E-Commerce,Online Marketplace,Bengaluru,SoftBank Group,Private Equity Round,2500000000,nan
 653,11-08-2017,Moong Labs,Technology,Mobile games developer,New Delhi,Nazara Games,Private Equity Round,,nan
 654,11-08-2017,Ola Cabs,Transportation,App based cab aggregation Service,Gurgaon,Tekne Capital Management LLC,Private Equity Round,36000000,nan
-655,14-08-2017,Sports Flashes,Consumer Internet,Sports Content Mobile App,New Delhi,Bennett Coleman & Co. Ltd,Private Equity Round,,nan
+655,14-08-2017,Sports Flashes,Media & Entertainment,Sports Content Mobile App,New Delhi,Bennett Coleman & Co. Ltd,Private Equity Round,,nan
 656,14-08-2017,Digilend,Technology,Personal Loans & EMI solutions platform,Mumbai,"InCred Finance, Fullerton India Credit Company Ltd",Seed Round,312000,nan
-657,15-08-2017,KNAB Finance,Consumer Internet,Unsecured Small Business Loans,Bengaluru,"InCred Finance, Krishnakumar Natarajan, Ravi Bhardwaj",Seed Round,385000,nan
+657,15-08-2017,KNAB Finance,FinTech,Unsecured Small Business Loans,Bengaluru,"InCred Finance, Krishnakumar Natarajan, Ravi Bhardwaj",Seed Round,385000,nan
 658,17-08-2017,Get Simpl,Consumer Internet,Payment Solution Mobile app,Mumbai,"Green Visor Capital LP II, IA Venture Strategies Fund II LP, Boillot Family Trust, Russell M Byrne, The Oliver R. Grace, Jr. Millennium Trust, SF Capital Group",Seed Round,,nan
 659,20-08-2017,Rootefy,E-Commerce,Building material online store,New Delhi,Abhinav Gupta,Seed Round,187000,nan
 660,21-08-2017,Uniphore,Artificial Intelligence platform,speech recognition startup,Chennai,IDG Ventures India,Private Equity Round,6800000,nan
@@ -695,7 +695,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 694,12-07-2017,Bottr.me,Technology,Chatbot creation tool,Bengaluru,"500 Startups, Purvi Capital, Rajan Anandan, Abhishek Gupta",Seed Round,,nan
 695,12-07-2017,Arcatron Mobility,Technology,Next Gen Mobility device manufacturer,Pune,Indian Angel Network (IAN),Seed Round,,nan
 696,14-07-2017,QwikSpec,Technology,Construction site operations and analytics platform,Bengaluru,"Brigade Innovations LLP, T.V. Mohandas Pai, Suhail Rahman, Bobby Reddy, M George Oommen",Seed Round,540000,nan
-697,14-07-2017,Chumbak,E-Commerce,Designer consumer products Marketplace,Bengaluru,BlackSoil Capital Pvt. Ltd.,Private Equity Round,1700000,nan
+697,14-07-2017,Chumbak,Retail,Designer consumer products Marketplace,Bengaluru,BlackSoil Capital Pvt. Ltd.,Private Equity Round,1700000,nan
 698,17-07-2017,Increff,Technology,Sales Solutions for Fashion Brands,Bengaluru,"Sequoia India, GreyOrange, Rajesh Ramaiah, Anshuman Das, Rishi Das",Seed Round,2000000,nan
 699,17-07-2017,Vayana,Technology,Enterprise Banking Solutions,Pune,"IDG Ventures India, Jungle Ventures",Private Equity Round,4000000,nan
 700,18-07-2017,MObiquest,Technology,Mobile Services & Solutions,Noida,One97 Communications Ltd.,Private Equity Round,,nan
@@ -712,7 +712,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 711,21-07-2017,MonkeyBox,Consumer Internet,Healthy Food Delivery Platform,Bengaluru,"Blume Ventures, NB Ventures, Nspira",Seed Round,,nan
 712,25-07-2017,Noticeboard,Consumer Internet,Mobile-first Enterprise communication platform,Bengaluru,Stellaris Venture Partners,Private Equity Round,1200000,nan
 713,25-07-2017,BYJU'S,Ed-Tech,Mobile Learning App,Bengaluru,Tencent,Private Equity Round,35000000,nan
-714,26-07-2017,Creator's Gurukul,Others,Co-Working Space Provider,New Delhi,Yuvraj Singh,Seed Round,,nan
+714,26-07-2017,Creator's Gurukul,Facilities Support Services,Co-Working Space Provider,New Delhi,Yuvraj Singh,Seed Round,,nan
 715,26-07-2017,FabHotels,E-Commerce,Budget Accommodation Platform,New Delhi,Goldman Sachs Group,Private Equity Round,25000000,nan
 716,26-07-2017,ThinkerBell,Consumer Internet,Assisted Learning Startup,Bengaluru,"Indian Angel Network (IAN), Anand Mahindra",Seed Round,200000,nan
 717,27-07-2017,1mg,E-Commerce,Online Pharmacy,Gurgaon,"HBM Healthcare Investments Ltd, Maverick Capital Ltd, Sequoia India, Omidyar Network , Kae Capital",Private Equity Round,15000000,nan
@@ -729,8 +729,8 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 728,06-06-2017,BHIVE Workspace,Consumer Internet,co-working spaces,Bengaluru,Blume Ventures,Private Equity Round,1200000,nan
 729,06-06-2017,wayForward,Consumer Internet,Mobile app for Mental Health,New Delhi,"Harsh Mahajan, Farhan Naqvi, Sreepathy Viswanathan",Seed Round,1000000,nan
 730,06-06-2017,GyanDhan,Consumer Internet,Education Marketplace,New Delhi,Sundaram Finance Holdings,Private Equity Round,,nan
-731,06-06-2017,Hungry Foal,Consumer Internet,For profit Social Venture,Gurgaon,SBI (Stand Up India Scheme),Private Equity Round,,nan
-732,07-06-2017,ZipLoan,Consumer Internet,Online lending platform,New Delhi,Waterbridge Ventures,Seed Round,650000,nan
+731,06-06-2017,Hungry Foal,Food & Beverages,For profit Social Venture,Gurgaon,SBI (Stand Up India Scheme),Private Equity Round,,nan
+732,07-06-2017,ZipLoan,Financial Services,Online lending platform,New Delhi,Waterbridge Ventures,Seed Round,650000,nan
 733,07-06-2017,GrowFitter,Consumer Internet,health and fitness discovery platform,Mumbai,SQue Capital,Seed Round,600000,nan
 734,08-06-2017,Stratfit,Consumer Internet,Health coaching programs,Hyderabad,Bodhtree Consulting Limited,Seed Round,232000,nan
 735,08-06-2017,Multiplier Solutions,Technology,CRM Software for Healthcare space,Hyderabad,Norwest Venture Partners,Private Equity Round,1500000,nan
@@ -764,7 +764,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 763,21-06-2017,Fynd,E-Commerce,Fashion etailer,Mumbai,"IIFL, Kae Capital, FJ Labs, Singularity Ventures, GrowX Ventures, Tracxn, Axis Capital",Private Equity Round,2400000,nan
 764,21-06-2017,Grow Fit,Consumer Internet,Health-Tech platform,Bengaluru,"Manipal Education and Medical Group (MEMG), SAR Group, The Grover Trust",Private Equity Round,4500000,nan
 765,21-06-2017,Fabulyst,Technology,Artificial Intelligence based platform,Hyderabad,iBhubs,Seed Round,215000,nan
-766,21-06-2017,Mswipe,Technology,Point-of-Sale services,Mumbai,"UC-RNT fund, Matrix Partners India, alcon Edge Capital, DSG Consumer Partners",Private Equity Round,31000000,nan
+766,21-06-2017,Mswipe,Financial Services,Point-of-Sale services,Mumbai,"UC-RNT fund, Matrix Partners India, alcon Edge Capital, DSG Consumer Partners",Private Equity Round,31000000,nan
 767,21-06-2017,OneAssist,Consumer Internet,Credit card fraud protection,Mumbai,Sequoia India,Private Equity Round,,nan
 768,22-06-2017,Julia Computing,Technology,Open Source Language for Data Science and Machine Learning,Bengaluru,"General Catalyst Partners, Founder Collective",Private Equity Round,4600000,nan
 769,22-06-2017,Kissht,Consumer Internet,Consumer Lending platform,Mumbai,"Endiya Partners, Ventureast",Private Equity Round,2000000,nan
@@ -985,7 +985,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 984,29-03-2017,BYJU'S,Ed-Tech,Online Education Platform,Bengaluru,Verlinvest,Private Equity Round,,nan
 985,29-03-2017,Licious,E-Commerce,Online Meat Ordering platform,Bengaluru,"Mayfield India II Management Ltd, 3One4 Capital, Sistema Asia Fund, Neoplux",Private Equity Round,10000000,nan
 986,29-03-2017,Medinfi,Consumer Internet,Doctor & Hospital search Platform,Bengaluru,"Vinod Martin, Hemant Kaul, Prof. Ram Kumar Kakani",Seed Round,50000,nan
-987,30-03-2017,Indus OS,Technology,Mobile OS creator,Mumbai,"JSW Ventures, Ventureast",Private Equity Round,,nan
+987,30-03-2017,Indus OS,Information Technology,Mobile OS creator,Mumbai,"JSW Ventures, Ventureast",Private Equity Round,,nan
 988,30-03-2017,Emflux Motors,Technology,Electric Motorcycle manufacturer,Bengaluru,"Meher Roy, Nikhil Arora, Meet Kanodia, Krit Sankalp, Nitish Singh, Risabh Gupta",Seed Round,,nan
 989,30-03-2017,Klinic App,Consumer Internet,Pathology & Diagnostic Tests Portal,Gurgaon,Om Chaudhry,Seed Round,,nan
 990,31-03-2017,Jhakaas,Consumer Internet,Offline Business Aggregator App,Mumbai,"Malini Patel, Stelcore Management Services, Anjani Prasad",Seed Round,155000,nan
@@ -1034,7 +1034,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1033,20-02-2017,Flipkart,E-Commerce,Online Marketplace,Bengaluru,Bennett Coleman & Co. Ltd,Private Equity Round,38700000,nan
 1034,21-02-2017,True Balance,Consumer Internet,Mobile balance Checking App,Gurgaon,"SoftBank Ventures Korea, IMM Investment",Private Equity Round,15000000,nan
 1035,22-02-2017,Vebbler,Consumer Internet,Photo Sharing for Groups,Bengaluru,Facebook FB Start programme,Seed Round,40000,nan
-1036,23-02-2017,Get My Parking,Consumer Internet,Smart Parking Platform,New Delhi,"Indian Angel Network (IAN), BEENEXT, The Chennai Angels, Sunil Munjal",Private Equity Round,1100000,nan
+1036,23-02-2017,Get My Parking,Technology,Smart Parking Platform,New Delhi,"Indian Angel Network (IAN), BEENEXT, The Chennai Angels, Sunil Munjal",Private Equity Round,1100000,nan
 1037,23-02-2017,Lets Reap,Consumer Internet,B2B Mobile App for Pharmacies,Mumbai,"Kunal Shah, Sandeep Tandon, Nitin Saluja, Gagan Goyal",Seed Round,,nan
 1038,24-02-2017,Oglas,Consumer Internet,Mobile Advertising App,Noida,"Pankaj Rungta, Yogesh Agarwal",Seed Round,,nan
 1039,27-02-2017,Stayabode,Consumer Internet,Co-Living Spaces Aggregator,Bengaluru,Ishan Manaktala,Seed Round,,nan
@@ -1122,13 +1122,13 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1121,02-12-2016,TYGR,Technology,Transport and logistics mobile App,Mumbai,Franchise India Brands,Private Equity Round,3000000,nan
 1122,05-12-2016,Mr Hot Foods,Consumer Internet,Online Food Ordering & Delivery Portal,Indore,IvyCamp Ventures,Seed Round,,nan
 1123,05-12-2016,UrDoorStep,E-Commerce,Online Grocery Store,Bengaluru,"Lakshmi Vilas Bank, High Networth Individuals (undisclosed)",Private Equity Round,1400000,nan
-1124,05-12-2016,ONN Bikes,E-Commerce,On-demand & self-drive bike rental platform,Mumbai,Grace Capital Ventures,Seed Round,,nan
+1124,05-12-2016,ONN Bikes,Automotive Services platform,On-demand & self-drive bike rental platform,Mumbai,Grace Capital Ventures,Seed Round,,nan
 1125,06-12-2016,Diro Labs,Consumer Internet,Mobile Contacts Management app,New Delhi,Info Edge (India) Ltd,Seed Round,147000,nan
 1126,06-12-2016,THB,Technology,Clinical research and data analytics,Gurgaon,"Ajith Sukumaran, Currae Healthtech Fund",Seed Round,,nan
 1127,07-12-2016,LookAtMe,Consumer Internet,Mobile App based Fashion Network,Singapore,Eros Labs,Seed Round,,nan
 1128,07-12-2016,Netree,E-Commerce,Mobile-only Retailers Engagement Solution,New Delhi,"The Chennai Angels, LetsVenture",Seed Round,,nan
 1129,07-12-2016,BookEventz,Consumer Internet,Venue & Events Booking platform,Mumbai,"Investors from Mumbai Angels Network,  LetsVenture",Seed Round,,nan
-1130,07-12-2016,Tailslife,Consumer Internet,Pet Parenting mobile app,Bengaluru,"Mohan Kumar, V Balakrishnan",Seed Round,,nan
+1130,07-12-2016,Tailslife,Technology,Pet Parenting mobile app,Bengaluru,"Mohan Kumar, V Balakrishnan",Seed Round,,nan
 1131,07-12-2016,Revv,Ed-Tech,Self Driven Rental Car Platform,New Delhi,Edelweiss Financial Services,Private Equity Round,9000000,nan
 1132,07-12-2016,WealthApp,Consumer Internet,Online Investment Advisory platform,Bengaluru,"Venk Krishnan, MJ Aravind, Vikram Kotak, Jayant Davar, Ramkumar Nishtal, Arjun Sharmaa",Seed Round,440000,nan
 1133,07-12-2016,Vehico,Technology,Connected Transportation solutions,Bengaluru,"Calcutta Angels Network, Applyifi",Seed Round,,nan
@@ -1202,14 +1202,14 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1201,05-11-2016,Medzin,E-Commerce,Online ordering & Delivery of medicines,New Delhi,A M Sikander,Seed Round,45000,nan
 1202,05-11-2016,Bizongo,E-Commerce,Packaging Material Marketplace,Mumbai,"IDG Ventures India, Accel",Private Equity Round,3000000,nan
 1203,07-11-2016,Rivigo,Logistics Services Provider,Technology based Logistics platform,Gurgaon,Warburg Pincus,Private Equity Round,75000000,nan
-1204,07-11-2016,Justride,Consumer Internet,Online Car Sharing platform,Mumbai,"Justin Kan, Qasar Younis, Paul Bucche, Susa Ventures, Kima Ventures, Axan Partners, SCM Holdings",Private Equity Round,3000000,nan
+1204,07-11-2016,Justride,Transportation,Online Car Sharing platform,Mumbai,"Justin Kan, Qasar Younis, Paul Bucche, Susa Ventures, Kima Ventures, Axan Partners, SCM Holdings",Private Equity Round,3000000,nan
 1205,09-11-2016,IIM Jobs,Consumer Internet,Online Job Portal,New Delhi,India Quotient,Private Equity Round,2000000,nan
 1206,09-11-2016,Square Yards,Consumer Internet,Online Property Search Portal,Gurgaon,ADAG Reliance Private Equity,Private Equity Round,12000000,nan
 1207,10-11-2016,GolfLAN,Consumer Internet,Golf Session Online Bookings platform,New Delhi,"YourNest Venture Capital, iSON",Private Equity Round,1000000,nan
 1208,10-11-2016,Yottaasys,Technology,Data Sciences platform,Bengaluru,Gleevoaz Ventures,Private Equity Round,,nan
 1209,10-11-2016,Tonetag,FinTech,Contactless Payment Solution,Bengaluru,"Arun Seth, T.V. Mohandas Pai, Anand Chandrasekaran, Deepak Ghaisas",Private Equity Round,,nan
 1210,11-11-2016,Life in Control,Consumer Internet,Online Diabetes Management platform,Gurgaon,RoundGlass Partners,Private Equity Round,,nan
-1211,14-11-2016,Active.ai,Technology,Banking & Financial Tech Platform,Singapore,"Kalaari Capital, IDG Ventures India",Private Equity Round,3000000,nan
+1211,14-11-2016,Active.ai,Financial Services,Banking & Financial Tech Platform,Singapore,"Kalaari Capital, IDG Ventures India",Private Equity Round,3000000,nan
 1212,14-11-2016,ElasticRun,Technology,Tech driven Logistic & distribution platform,Pune,"Kalaari Capital, Norwest Venture Partners",Private Equity Round,2000000,nan
 1213,15-11-2016,E-Commerce,Consumer Internet,Online Rental discovery,Bengaluru,Vijay Shekhar Sharma,Seed Round,,nan
 1214,15-11-2016,Zefo,E-Commerce,Used Furniture & Appliances Marketplace,Bengaluru,"Sequoia India, BEENEXT, Helion Venture Partners",Private Equity Round,6000000,nan
@@ -1236,7 +1236,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1235,23-11-2016,Udaan,E-Commerce,B2B Marketplace,Bengaluru,"Lightspeed Venture Partners India, Lightspeed US",Private Equity Round,10000000,nan
 1236,24-11-2016,FroyoFit,Consumer Internet,Fitness Discovery Platform,Indore,Dr. Pooja Gandhi,Seed Round,,nan
 1237,24-11-2016,Betterplace,Consumer Internet,Background Verification Services,Bengaluru,Venture Highway,Seed Round,,nan
-1238,24-11-2016,ShareChat,Consumer Internet,Local Language Social Networking Platform,Mumbai,"Lightspeed Venture Partners India, SAIF Partners, India Quotient, Venture Highway",Private Equity Round,4000000,nan
+1238,24-11-2016,ShareChat,Internet,Local Language Social Networking Platform,Mumbai,"Lightspeed Venture Partners India, SAIF Partners, India Quotient, Venture Highway",Private Equity Round,4000000,nan
 1239,24-11-2016,UClean,Consumer Internet,Tech Enabled Laundry Service Provider,Gurgaon,Franchise India Brands,Private Equity Round,,nan
 1240,24-11-2016,Servify,Consumer Internet,Personal Device Assistant App,Mumbai,"Blume Ventures, BEENEXT, Barkawi Holdings GmbH, TM Service Technology Holdings GmbH, Sreevathsa Prabhakar",Private Equity Round,,nan
 1241,25-11-2016,Hubilo,Consumer Internet,End-to-end Event Organizers Solutions,Ahmedabad,"Girish Mathrubootham, VC Karthic, Miten Mehta, Umasankar Nistala, Rakesh Patel, Akash Bhavsar, Jeevanandhan Rajagopal, Vikas Chadha",Seed Round,,nan
@@ -1246,7 +1246,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1245,28-11-2016,Kloseby,Consumer Internet,proximity based Rewards platform,Bengaluru,Group of investors (undisclosed),Seed Round,100000,nan
 1246,28-11-2016,WholeSaleBox,E-Commerce,B2B Wholesale Apparel Marketplace,Jaipur,"Manish Maheshwari, Contrarian Vriddhi Fund",Private Equity Round,2000000,nan
 1247,29-11-2016,Crossahead,Consumer Internet,Creative Artists Discovery & Booking platform,Noida,Mohit Sharma,Seed Round,,nan
-1248,29-11-2016,Affordplan,Consumer Internet,Savings platform for Medical Expenses,New Delhi,"Prime Venture Partners, Kalaari Capital",Private Equity Round,3000000,nan
+1248,29-11-2016,Affordplan,Financial Services,Savings platform for Medical Expenses,New Delhi,"Prime Venture Partners, Kalaari Capital",Private Equity Round,3000000,nan
 1249,30-11-2016,HandyTrain,Consumer Internet,Mobile App for SAAS based Training,Goa,"Silver Range Investments, Lumina Datamatics, Shun Yoshida",Private Equity Round,1000000,nan
 1250,30-11-2016,ShopsUp,E-Commerce,Hyperlocal Shopping App,Bengaluru,"Anand Sankeshwar, Yang Shu",Seed Round,963000,nan
 1251,30-11-2016,Indofash,E-Commerce,Ethnic Indian Fashion Marketplace,Bengaluru,"Shekhar Sahu, Nitesh Pant",Seed Round,150000,nan
@@ -1280,7 +1280,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1279,06-10-2016,FindmeaShoe,Consumer Internet,Footwear Recommendation App,Bengaluru,Ventureast,Seed Round,,nan
 1280,06-10-2016,RealBox,Technology,Data Sciences Platform,Noida,Hyderabad Angels,Seed Round,300000,nan
 1281,06-10-2016,Sportido,Consumer Internet,Sports Discovery platform,Noida,Sumpoorna Group,Seed Round,,nan
-1282,06-10-2016,GoZefo,E-Commerce,Used Furniture & Appliances Marketplace,Bengaluru,"Helion Venture Partners, BEENEXT",Private Equity Round,1050000,nan
+1282,06-10-2016,Zefo,E-Commerce,Used Furniture & Appliances Marketplace,Bengaluru,"Helion Venture Partners, BEENEXT",Private Equity Round,1050000,nan
 1283,07-10-2016,RayIOT,Technology,Baby Monitoring Devices manufacturer,Bengaluru,HAX Accelerator,Seed Round,100000,nan
 1284,07-10-2016,KOOH Sports,Technology,Sports Training & Technology,Mumbai,"HDFC Bank, Faering Capital, Elevate Sports",Private Equity Round,2200000,nan
 1285,07-10-2016,Flexiloans,Consumer Internet,Online Funds Raising Platform,Mumbai,"Sanjay Nayar, Vikram Sud, Anil Jaggia, Narayan Seshadri",Private Equity Round,15000000,nan
@@ -1288,7 +1288,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1287,10-10-2016,Vithi.com,E-Commerce,Online Hair Extension etailer,New Delhi,Group of investors (undisclosed),Seed Round,375000,nan
 1288,11-10-2016,Yupp TV,Consumer Internet,Internet-based TV streaming service provider,Bengaluru,Emerald Media,Private Equity Round,50000000,nan
 1289,11-10-2016,Deyor Camps,Consumer Internet,Branded Camping location Aggregator,Gurgaon,"Nitin Passi, Manickam Mahalingam, Udaan Angels, Rajesh Arora, Arkas Industries",Seed Round,500000,nan
-1290,12-10-2016,ZipLoan,Consumer Internet,online lending platform,New Delhi,"GrowX Ventures, Sunil Kalra, Arun Venkatachalam, Badal Malick",Seed Round,,nan
+1290,12-10-2016,ZipLoan,Financial Services,online lending platform,New Delhi,"GrowX Ventures, Sunil Kalra, Arun Venkatachalam, Badal Malick",Seed Round,,nan
 1291,13-10-2016,FabAlley,E-Commerce,online fashion brand store,Noida,"India Quotient, FAO Ventures, Indian Angel Network (IAN), Tushar Singh, Ranjan Sharma",Private Equity Round,2000000,nan
 1292,13-10-2016,ShoeKonnect,E-Commerce,B2B Marketplace for Shoes,Agra,Indian Angel Network (IAN),Seed Round,,nan
 1293,13-10-2016,Maya,Consumer Internet,Womens Health Tracker App,Bengaluru,Rajan Anandan,Seed Round,,nan
@@ -1311,8 +1311,8 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1310,18-10-2016,Coppre,E-Commerce,Copper based items etailer,Pune,Ganesh Natarajan,Seed Round,,nan
 1311,18-10-2016,MySUN,Technology,Solar Energy harnessing products marketplace,Noida,General Catalyst Partners,Private Equity Round,2500000,nan
 1312,18-10-2016,ePathsala,Technology,Cloud based ERP for Accreditation & ICT,Bengaluru,"Hyderabad Angels, TLabs",Seed Round,,nan
-1313,19-10-2016,Furlenco,Consumer Internet,Online Furniture Rental platform,Bengaluru,"Lightbox, Axis Capital",Private Equity Round,30000000,nan
-1314,19-10-2016,Fisdom,Consumer Internet,Personal Wealth Management Platform & App,Bengaluru,"Saama Capital, Raghunandan Gangappa, Aprameya Radhakrishna",Private Equity Round,1100000,nan
+1313,19-10-2016,Furlenco,Consumer Services,Online Furniture Rental platform,Bengaluru,"Lightbox, Axis Capital",Private Equity Round,30000000,nan
+1314,19-10-2016,Fisdom,Financial Services,Personal Wealth Management Platform & App,Bengaluru,"Saama Capital, Raghunandan Gangappa, Aprameya Radhakrishna",Private Equity Round,1100000,nan
 1315,19-10-2016,Actofit,Technology,Wearable Technology platform & devices,Mumbai,Next Orbit Ventures Fund,Private Equity Round,750000,nan
 1316,20-10-2016,Stayology,Consumer Internet,Stay & Travel related services,Bengaluru,Ranjan Pai,Seed Round,,nan
 1317,20-10-2016,Hipcask,Consumer Internet,Alcoholic beverage discovery platform,Mumbai,Mobikon,Seed Round,,nan
@@ -1330,7 +1330,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1329,26-10-2016,Wooplr,Consumer Internet,Fashion Discovery App,Bengaluru,"Astarc Ventures, Anand Chandrasekaran",Seed Round,,nan
 1330,26-10-2016,The Kettlery,E-Commerce,Online Tea Etailer,Ahmedabad,"hooting Starts Sports LLP, Franchise India Brands",Private Equity Round,1000000,nan
 1331,27-10-2016,Idea Bubbles,Consumer Internet,Doctor Consulting platform,Bengaluru,"1Crowd, Eureka Forbes Ltd, Shapoorji Pallonji & Co. Ltd.",Private Equity Round,700000,nan
-1332,27-10-2016,FR8,Technology,Truck Fleet Operation platform,Chennai,Omnivore Partners,Private Equity Round,971000,nan
+1332,27-10-2016,FR8,Logistics Services Provider,Truck Fleet Operation platform,Chennai,Omnivore Partners,Private Equity Round,971000,nan
 1333,27-10-2016,Ather Energy,Automotive,Electric Vehicle Manufacturer,Bengaluru,Hero MotoCorp,Private Equity Round,27000000,nan
 1334,28-10-2016,Pikkol,Logistics,Relocation Service provider,Bengaluru,"Ajay Nanavati, Afsal Salu",Seed Round,,nan
 1335,29-10-2016,Velmenni,Technology,LiFi based wireless communication provider,New Delhi,Kalaari Capital,Seed Round,100000,nan
@@ -1357,7 +1357,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1356,08-09-2016,BuildTraders,E-Commerce,Online Construction Materials Marketplace,Bengaluru,Idein Ventures,Seed Round,200000,nan
 1357,09-09-2016,BYJU'S,Ed-Tech,Online Learning App,Bengaluru,"Chan Zuckerberg Initiative, Times Internet, Sequoia India, Sofina, Lightspeed Venture Partners India",Private Equity Round,50000000,nan
 1358,09-09-2016,NoBroker,E-Commerce,Online Home Rental platform,Bengaluru,Anand Chandrasekaran,Seed Round,,nan
-1359,10-09-2016,Freshboxx,E-Commerce,Fruits & vegetable eTailer,Hubli,Ravi Linganuri,Seed Round,,nan
+1359,10-09-2016,Freshboxx,Food & Beverages,Fruits & vegetable eTailer,Hubli,Ravi Linganuri,Seed Round,,nan
 1360,10-09-2016,CureInstant,Consumer Internet,Social Health Networking Platform,New Delhi,Dr. Rameshwar Kumar,Seed Round,150000,nan
 1361,10-09-2016,Poshtic,Consumer Internet,Online health & Wellness platform,Noida,"havya Sharma, Amit Nagar",Seed Round,450000,nan
 1362,10-09-2016,KarmaCircles,Consumer Internet,Peer-to-peer Social Learning platform,New Delhi,"Harinder Takhar, Zain Raj, Dr. Prasad Kaipa, Abaran Deep, Aseem Sood, Mustafa Patni",Seed Round,,nan
@@ -1373,7 +1373,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1372,14-09-2016,Flocareer,Consumer Internet,Jobs & Skill Validation platform,Bengaluru,"Balasubramanian Krishnamurthy, Sidhartha Hazarika",Seed Round,150000,nan
 1373,14-09-2016,LensPick,E-Commerce,eyewear eTailer,Bengaluru,Scadea Solutions Inc,Private Equity Round,,nan
 1374,15-09-2016,infeedo,Consumer Internet,Employee engagement platform,Gurgaon,"Dheeraj Jain, Palash Jain, Anupam Mittal, Ameera Shah, Vivek Bhargava, Rahul Singh, Ambarish Gupta",Seed Round,200000,nan
-1375,15-09-2016,Furlenco,E-Commerce,Online furniture rental startup,Bengaluru,Lightbox,Private Equity Round,5000000,nan
+1375,15-09-2016,Furlenco,Consumer Services,Online furniture rental startup,Bengaluru,Lightbox,Private Equity Round,5000000,nan
 1376,15-09-2016,GoPigeon,Consumer Internet,on-demand logistics service provider,Bengaluru,Nexus Venture Partners,Private Equity Round,1500000,nan
 1377,16-09-2016,NewsDistill,Consumer Internet,City based News Aggregator App,Hyderabad,"Ganesh Narasimhan, Ramana Thumu, Sudhir Mallem",Seed Round,100000,nan
 1378,16-09-2016,Doctor Insta,Consumer Internet,Online Doctor Consultations,Gurgaon,RoundGlass Partners,Private Equity Round,1000000,nan
@@ -1435,7 +1435,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1434,10-08-2016,Vebbler,Consumer Internet,Photo Sharing Mobile App,Bengaluru,"Anupam Mittal, Sharad Sharma, Group of 14 investors (undisclosed)",Seed Round,500000,nan
 1435,10-08-2016,Bombay Shaving Company,E-Commerce,Men's Grooming Product etailer,New Delhi,"Noshir Kaka, Subramanian Ramadorai, Kiran Deshpande, Pankaj Gupta, Ravi Nigam",Seed Round,600000,nan
 1436,11-08-2016,Travelyaari,Consumer Internet,Online ticket booking platform,Bengaluru,"Gujarat Venture Finance Limited (GVFL), Bennett Coleman & Co. Ltd",Private Equity Round,7000000,nan
-1437,11-08-2016,91springboard,Consumer Internet,Co-Working Spaces Discovery & Booking platform,Mumbai,"Khattar Holdings, ThirtyThree Investments, Soumitra Sharma, Deepak Sharma, Sumit Dayal",Private Equity Round,,nan
+1437,11-08-2016,Springboard,Ed-Tech,Co-Working Spaces Discovery & Booking platform,Mumbai,"Khattar Holdings, ThirtyThree Investments, Soumitra Sharma, Deepak Sharma, Sumit Dayal",Private Equity Round,,nan
 1438,11-08-2016,Genextstudents,Consumer Internet,Online Tutoring Service provider,Mumbai,1Crowd (through crowd funding),Seed Round,209000,nan
 1439,11-08-2016,Zenoti,SaaS platform,Cloud Based Software Solutions Provider,Hyderabad,"Norwest Venture Partners, Accel",Private Equity Round,15000000,nan
 1440,12-08-2016,Crofarm,Technology,Agri-Tech supply chain Solution provider,Gurgaon,"Mukul Singhal, Rohit Jain, Himanshu Aggarwal, Sunil Goyal, Ashish Gupta",Private Equity Round,1500000,nan
@@ -1494,11 +1494,11 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1493,30-08-2016,DayBox,Consumer Internet,Fruit & Vegetable Delivery platform,New Delhi,"Ashutosh Lawania, Rajul Jain, Badal Malick, Rishi Gupta",Seed Round,104000,nan
 1494,30-08-2016,Paytm,FinTech,Mobile Wallet & E-Commerce platform,Bengaluru,MediaTek Inc.,Private Equity Round,60000000,nan
 1495,30-08-2016,CropIn,Technology,Agriculture Technology Solutions,Bengaluru,Sophia Investment ApS,Private Equity Round,2000000,nan
-1496,30-08-2016,Canvera,Consumer Internet,Photographer Discovery & Information platform,Bengaluru,Info Edge (India) Ltd,Private Equity Round,3000000,nan
+1496,30-08-2016,Canvera,E-Commerce,Photographer Discovery & Information platform,Bengaluru,Info Edge (India) Ltd,Private Equity Round,3000000,nan
 1497,30-08-2016,Prime Focus Technologies,Technology,Hybrid Cloud technology enabled Media ERP platform,Mumbai,Ambit Pragma,Private Equity Round,,nan
 1498,31-08-2016,Flyrobe,E-Commerce,Online fashion rental platform,Mumbai,"IDG Ventures India,Sequoia India, GREE Ventures",Private Equity Round,5300000,nan
 1499,31-08-2016,Inclov,Consumer Internet,Matchmaking App for Disabled,Mumbai,"Sarbvir Singh, Raghav Bahl",Seed Round,,nan
-1500,01-07-2016,Razorpay,Consumer Internet,Online Payment Gateway,Bengaluru,Mastercard,Private Equity Round,,nan
+1500,01-07-2016,Razorpay,FinTech,Online Payment Gateway,Bengaluru,Mastercard,Private Equity Round,,nan
 1501,01-07-2016,DarwinBox,Technology,HR Software Services Startup,Hyderabad,"3One4 Capital, Tracxn, Aaruha Technology Fund, Endiya Partners",Seed Round,,nan
 1502,01-07-2016,Venture Catalysts,Consumer Internet,Seed Investment & Innovation Platform,Mumbai,Zaffiro Ventures,Seed Round,500000,nan
 1503,01-07-2016,PressPlay TV,Consumer Internet,Video Content Discovery Platform,New Delhi,"Sequoia India, SD Ventures, Vistaar Investment Advisors Pvt. Ltd.",Private Equity Round,,nan
@@ -1508,11 +1508,11 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1507,04-07-2016,Stitchwood,E-Commerce,Custom Furniture Online,Mumbai,Deepak Gupta,Seed Round,200000,nan
 1508,04-07-2016,Grab.in,Logistics,hyperlocal logistics service,Mumbai,Aramex Ventures Llc,Private Equity Round,2000000,nan
 1509,04-07-2016,Fulfil.IO,Consumer Internet,Cloud Based ERP Software,US,Rajan Anandan,Seed Round,,nan
-1510,04-07-2016,NeoGrowth Credit,Finance,SME Lending platform,Mumbai,"IIFL Wealth Management, Omidyar Network, Khosla Impact, Aspada Investment",Private Equity Round,16000000,nan
+1510,04-07-2016,NeoGrowth Credit,Financial Services,SME Lending platform,Mumbai,"IIFL Wealth Management, Omidyar Network, Khosla Impact, Aspada Investment",Private Equity Round,16000000,nan
 1511,05-07-2016,SeeDoc,Consumer Internet,Video Based Doctor Consulting platform App,Gurgaon,YourNest Venture Capital,Private Equity Round,1000000,nan
 1512,05-07-2016,BookMyShow,Consumer Internet,Event & Movie Ticketing platform,Mumbai,"Stripes Group, Network 18, Accel, SAIF Partners",Private Equity Round,82000000,nan
 1513,05-07-2016,Flyrobe,E-Commerce,Online fashion rental platform,Mumbai,"Sequoia India, Rohit Bansal, Kunal Bahl, Sandeep Tandon, Kunal Shah, Zishaan Hayath, Abhishek Jain",Seed Round,1700000,nan
-1514,06-07-2016,Happily Unmarried,E-Commerce,Online Merchandize etailer,New Delhi,Info Edge (India) Ltd,Private Equity Round,740000,nan
+1514,06-07-2016,Happily Unmarried,Retail,Online Merchandize etailer,New Delhi,Info Edge (India) Ltd,Private Equity Round,740000,nan
 1515,06-07-2016,Don't Scratch Your Head,Technology,Full Stack Offline & Online ERP Solution,Ahmedabad,"Gaurav Singhvi, Zaffiro Ventures",Seed Round,250000,nan
 1516,06-07-2016,Wedding Wishlist,Consumer Internet,Wedding Wishlist & Gifts & Registry Creation platform,Chennai,"Kirthiga Reddy, Renuka Ramanath,Cherry Tin",Seed Round,297000,nan
 1517,07-07-2016,AppDaily,Technology,Mobile Security App development & Distribution,Mumbai,"Kalaari Capital, Qualcomm Ventures, Ru-Net Technology Partners, Zodius Technology Fund",Private Equity Round,2000000,nan
@@ -1532,7 +1532,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1531,13-07-2016,YAAP,Consumer Internet,Online Content Discovery & Creation & Distribution Platform,New Delhi,Rainmaker Ventures,Private Equity Round,5000000,nan
 1532,13-07-2016,Utoo Cabs,Consumer Internet,Cab aggregation & Rental platform,Chennai,Ajay Piramal,Seed Round,,nan
 1533,13-07-2016,Twigly,Consumer Internet,Online Food Ordering & Delivery Startup,Gurgaon,"Tracxn, Hyderabad Angels, Kunal Shah, Gaurav Bhalotia",Seed Round,600000,nan
-1534,13-07-2016,ShareChat,Consumer Internet,Vernacular Language Content Creation & Sharing App,Bengaluru,"SAIF Partners, India Quotient",Private Equity Round,1350000,nan
+1534,13-07-2016,ShareChat,Internet,Vernacular Language Content Creation & Sharing App,Bengaluru,"SAIF Partners, India Quotient",Private Equity Round,1350000,nan
 1535,13-07-2016,Urban Tailor,Consumer Internet,E-Tailoring service provider,Bengaluru,Unitus Seed Fund,Private Equity Round,,nan
 1536,13-07-2016,RentoMojo,Consumer Internet,Online Furniture Renting Platform,Bengaluru,"Accel, IDG Ventures India",Private Equity Round,5000000,nan
 1537,13-07-2016,CityFurnish,Consumer Internet,Online Furniture Renting Platform,Gurgaon,Brand Capital,Seed Round,,nan
@@ -1586,7 +1586,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1585,08-06-2016,StoreKing,E-Commerce,Connecting Small Town Consumers to E-Commerce,Bengaluru,Axiata Digital,Private Equity Round,16000000,nan
 1586,08-06-2016,Wired Hub,Real Estate,Co-Working Spaces,Jaipur,"Ankit Maheshwari, Anand Singh",Seed Round,,nan
 1587,08-06-2016,MySeniorDoctor,Consumer Internet,Online medical support platform,Gurgaon,BlackJag Partners,Seed Round,200000,nan
-1588,09-06-2016,Teabox,E-Commerce,Online Tea Store,Siliguri,Cameron Jones,Seed Round,,nan
+1588,09-06-2016,Teabox,Food & Beverages,Online Tea Store,Siliguri,Cameron Jones,Seed Round,,nan
 1589,09-06-2016,ExtraaEdge,Consumer Internet,Student Acquisition Platform,Pune,"Ritesh Dwivedy, Priti Padhy",Seed Round,,nan
 1590,09-06-2016,EPayLater,Technology,Financial Tech Platform,Mumbai,High Networth Individuals (undisclosed),Seed Round,2000000,nan
 1591,10-06-2016,Kyazoonga,E-Commerce,Online event ticketing Platform,Mumbai,Ratan Tata,Seed Round,,nan
@@ -1676,8 +1676,8 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1675,04-05-2016,SolarTown,Technology,Solar Rooftop system installation company,Chennai,Grex.in,Seed Round,200000,nan
 1676,04-05-2016,Comarete,Technology,Telecom & Media IT services company,Pune,Grex.in,Seed Round,200000,nan
 1677,04-05-2016,MyDentistChoice,E-Commerce,Medical Supplies eTailer,Hyderabad,Group of investors (undisclosed),Seed Round,150000,nan
-1678,04-05-2016,Active.ai,Technology,Intelligent Tech platform for Finance vertical,Singapore,Kalaari Capital,Seed Round,500000,nan
-1679,04-05-2016,Affordplan,Technology,Affordable non-emergency medical service health plans,New Delhi,Kalaari Capital,Seed Round,500000,nan
+1678,04-05-2016,Active.ai,Financial Services,Intelligent Tech platform for Finance vertical,Singapore,Kalaari Capital,Seed Round,500000,nan
+1679,04-05-2016,Affordplan,Financial Services,Affordable non-emergency medical service health plans,New Delhi,Kalaari Capital,Seed Round,500000,nan
 1680,04-05-2016,Indee,Consumer Internet,Web Video Streaming Platform,Bengaluru,Kalaari Capital,Seed Round,500000,nan
 1681,05-05-2016,Unbxd,Technology,E-Commerce product discovery software,New Delhi,"IDG Ventures India, Inventus Capital Partners, Indian Angel Network (IAN)",Private Equity Round,,nan
 1682,05-05-2016,WebAlligator,Consumer Internet,Cloud Based Software Solutions,Bengaluru,"Group of Angel investors (undisclosed), High Networth Individuals (undisclosed)",Seed Round,375000,nan
@@ -1754,7 +1754,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1753,06-04-2016,MyGlamm,Consumer Internet,Mobile based on-demand Beauty Services platform,Mumbai,L'Occitane,Private Equity Round,6000000,nan
 1754,06-04-2016,Petoo,Consumer Internet,Online Food Delivery Platform,Bengaluru,Axilor Partners,Private Equity Round,1000000,nan
 1755,07-04-2016,Truly Social,Consumer Internet,Mobile Gaming Studio,London,Nazara Technologies Pvt Ltd,Private Equity Round,,nan
-1756,08-04-2016,Little Black Book,Consumer Internet,Curated Food & event & Lifestyle guide,New Delhi,"IDG Ventures India, Indian Angel Network (IAN)",Seed Round,,nan
+1756,08-04-2016,Little Black Book,Internet,Curated Food & event & Lifestyle guide,New Delhi,"IDG Ventures India, Indian Angel Network (IAN)",Seed Round,,nan
 1757,08-04-2016,Vahan,Education Marketplace,Mobile Education Platform,Chennai,Villgro,Seed Round,,nan
 1758,08-04-2016,imedilane,Consumer Internet,Online Health Diagnosis platform,New Delhi,"Mahendra Patel, Nilender Chauhan",Seed Round,40000,nan
 1759,11-04-2016,Living Local,Consumer Internet,Social discovery platform,Mumbai,Rattan Chadha,Seed Round,200000,nan
@@ -1763,7 +1763,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1762,11-04-2016,PriceRaja,Consumer Internet,Price Comparison Portal,Gurgaon,Prashant Puri,Seed Round,300000,nan
 1763,12-04-2016,MagicX,Consumer Internet,On-Demand Task Management App,Bengaluru,"Kris Gopalakrishnan, Dr. Ranjan Pai",Seed Round,1000000,nan
 1764,12-04-2016,Happydemic,Consumer Internet,Artist Discovery & Booking platform,Mumbai,Shaan,Seed Round,,nan
-1765,12-04-2016,LenDenClub,Finance,Peer-to-Peer Lending Platform,Mumbai,"Anirudh Damani, Daud Ali, Narendra Karnavat, Vikas Kapoor, Vikram Lakhotia, Krishna Jhunjhunwala, Jayesh Shah",Seed Round,,nan
+1765,12-04-2016,LenDenClub,Financial Services,Peer-to-Peer Lending Platform,Mumbai,"Anirudh Damani, Daud Ali, Narendra Karnavat, Vikas Kapoor, Vikram Lakhotia, Krishna Jhunjhunwala, Jayesh Shah",Seed Round,,nan
 1766,12-04-2016,Indi.com,Consumer Internet,Video Social Network,,Anil Kapoor,Seed Round,,nan
 1767,13-04-2016,LegalRaasta,Consumer Internet,Online legal Services for Startups,New Delhi,"Pravin Khandelwal, Yatin Kumar Jain",Seed Round,1000000,nan
 1768,13-04-2016,RainCan,Consumer Internet,Subscription-based grocery delivery Mobile App,Pune,Dr. Aniruddha Malpani,Seed Round,150000,nan
@@ -1814,8 +1814,8 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1813,27-04-2016,RailYatri,TourismTravel,Train Related Information portal,Noida,"Nandan Nilekani, Helion Venture Partners, Omidyar Network, Blume Ventures",Private Equity Round,,nan
 1814,27-04-2016,ICHR,Consumer Internet,Mobile based Children health Information app,New Delhi,Undisclosed,Seed Round,450000,nan
 1815,27-04-2016,Murgency,Consumer Internet,Medical Emergency Response App,Mumbai,Axilor Partners,Private Equity Round,,nan
-1816,28-04-2016,The Wedding Brigade,Consumer Internet,Online Wedding Information Portal,Mumbai,Blume Ventures,Seed Round,600000,nan
-1817,28-04-2016,DocsApp,Consumer Internet,Online Doctor Discovery & Chat platform,Bengaluru,"Rebright Partners, Anand Rajaraman, Venky Harinarayan",Private Equity Round,1200000,nan
+1816,28-04-2016,The Wedding Brigade,Internet,Online Wedding Information Portal,Mumbai,Blume Ventures,Seed Round,600000,nan
+1817,28-04-2016,DocsApp,Health and Wellness,Online Doctor Discovery & Chat platform,Bengaluru,"Rebright Partners, Anand Rajaraman, Venky Harinarayan",Private Equity Round,1200000,nan
 1818,29-04-2016,ImpactGuru,Consumer Internet,Online Crowdfunding platform for NGOs & Social Projects,Mumbai,"RB Investments, Fundnel",Seed Round,500000,nan
 1819,29-04-2016,LetReach,E-Commerce,E-Commerce SAAS Solutions,New Delhi,vCommission,Private Equity Round,100000,nan
 1820,01-03-2016,DriveU,Automotive Services platform,Chauffeurs Discovery for private car owners,Bengaluru,Unitus Seed Fund,Seed Round,,nan
@@ -1850,10 +1850,10 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1849,08-03-2016,Dunzo,Consumer Services,Daily Task Management App,Bengaluru,"Aspada Investment, Blume Ventures",Seed Round,650000,nan
 1850,09-03-2016,Indiamart,E-Commerce,B2B Marketplace for SMBs,Noida,Amadeus Capital,Private Equity Round,,nan
 1851,09-03-2016,SmartVizX,Technology,Virtual Reality Solutions,Noida,"Indian Angel Network (IAN), Stanford Angels & Entrepreneurs India",Seed Round,500000,nan
-1852,09-03-2016,MyGubbi,Real Estate,Interior Design & Home Decor Solutions,Bengaluru,"Vipul Parekh, ajesh K Murthy",Seed Round,2500000,nan
-1853,09-03-2016,Nukkad Shops,Consumer Internet,Hyperlocal Grocery Delivery Service,Hyderabad,PurpleTalk Inc,Seed Round,1000000,nan
-1854,09-03-2016,Cloudacar,Consumer Internet,Carpooling Mobile App,Pune,"Amit Choudhary, Anuj Puri",Seed Round,,nan
-1855,09-03-2016,Justride,Consumer Internet,Self Drive Car Rental,Mumbai,Dheeraj Jain,Seed Round,400000,nan
+1852,09-03-2016,MyGubbi,Technology,Interior Design & Home Decor Solutions,Bengaluru,"Vipul Parekh, ajesh K Murthy",Seed Round,2500000,nan
+1853,09-03-2016,Nukkad Shops,E-Commerce,Hyperlocal Grocery Delivery Service,Hyderabad,PurpleTalk Inc,Seed Round,1000000,nan
+1854,09-03-2016,Cloudacar,Internet,Carpooling Mobile App,Pune,"Amit Choudhary, Anuj Puri",Seed Round,,nan
+1855,09-03-2016,Justride,Transportation,Self Drive Car Rental,Mumbai,Dheeraj Jain,Seed Round,400000,nan
 1856,09-03-2016,Yana,Consumer Internet,Personal AI Transaction Engine App,Gurgaon,Puneet Gupta,Seed Round,,nan
 1857,10-03-2016,Big Fish Ventures,Food & Beverages,premium dining lounges Chain,New Delhi,Group of investors (undisclosed),Private Equity Round,11100000,nan
 1858,10-03-2016,Stylflip,E-Commerce,Pre-Owned Fashion marketplace mobile app,Mumbai,"Raj Gala Shah, Zaheer Memon",Seed Round,,nan
@@ -1866,7 +1866,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1865,15-03-2016,FlipClass,Consumer Internet,Tutor Search Platform,Bengaluru,"S Chand Group, Blume Ventures",Private Equity Round,1000000,nan
 1866,15-03-2016,Proximit,Technology,Advertising Technology,Pune,Funding through 1Crowd platform,Seed Round,150000,nan
 1867,15-03-2016,WithMe,Consumer Internet,Personalized Fashion App,Gurgaon,"Alex Kuruvilla, Pradeep Guha, Saket Dhankar, Rajan Pandhare",Seed Round,250000,nan
-1868,16-03-2016,Gapoon,Consumer Internet,Hyperlocal Home Maintenance services,Bengaluru,"Chandrashekar Tallapragada, Pankaj Kapoor",Seed Round,180000,nan
+1868,16-03-2016,Gapoon,Consumer Services,Hyperlocal Home Maintenance services,Bengaluru,"Chandrashekar Tallapragada, Pankaj Kapoor",Seed Round,180000,nan
 1869,16-03-2016,Avagmah,Consumer Internet,Online Education Portal,Bengaluru,"Kris Gopalakrishnan, Atul Nishar",Seed Round,,nan
 1870,16-03-2016,WorkIndia,Consumer Internet,Online Job Board,Mumbai,BEENEXT,Seed Round,,nan
 1871,16-03-2016,Wealthy,Consumer Internet,Online Investment management portal,Bengaluru,"Zishaan Hayath, Abhishek Goyal, Arjun Malhotra, Rohan Malhotra, Harpreet Singh Grover, Gagan Dugal",Seed Round,250000,nan
@@ -1889,13 +1889,13 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 1888,23-03-2016,Endless Robotics,Technology,Interior Painting Automation,Hyderabad,"Devidas Desai, Vipul Gautam, Singapore Angel Network",Seed Round,100000,nan
 1889,23-03-2016,SP Robotics,Technology,Robotic Classes for Students,Chennai,Indian Angel Network (IAN),Seed Round,300000,nan
 1890,23-03-2016,StalkBuyLove,E-Commerce,Fashion eTailer,New Delhi,"500 Startups, Littlerock, Singularity Ventures",Seed Round,,nan
-1891,23-03-2016,eKincare,Consumer Internet,Healthcare related solutions,Hyderabad,"BitChemy Ventures, Maheshwari Investments Pvt Ltd, Anshoo Gaur, Rama Krishna Reddy, Sandeep Seerapu",Private Equity Round,330000,nan
+1891,23-03-2016,eKincare,Health and Wellness,Healthcare related solutions,Hyderabad,"BitChemy Ventures, Maheshwari Investments Pvt Ltd, Anshoo Gaur, Rama Krishna Reddy, Sandeep Seerapu",Private Equity Round,330000,nan
 1892,23-03-2016,HashLearn,Consumer Internet,Mobile based private tutoring services,,"Bhavish Aggarwal, Binny Bansal, Rajan Anandan, Mekin Maheshwari, Sunil Kalra, Anupam Mittal, Krishna Mehra, Singapore Angel Network",Seed Round,,nan
-1893,23-03-2016,Wheelstreet,Consumer Internet,Online Bike Rental platform,Bengaluru,Broadbean Capital services,Private Equity Round,500000,nan
-1894,24-03-2016,Horntell,Consumer Internet,Unified Push Notification service,Gurgaon,"Bharanidharan Viswanathan, Sanjiv Mittal, Shobhit Shukla, Rahul Agarwal",Seed Round,150000,nan
+1893,23-03-2016,Wheelstreet,TourismTravel,Online Bike Rental platform,Bengaluru,Broadbean Capital services,Private Equity Round,500000,nan
+1894,24-03-2016,Horntell,Internet,Unified Push Notification service,Gurgaon,"Bharanidharan Viswanathan, Sanjiv Mittal, Shobhit Shukla, Rahul Agarwal",Seed Round,150000,nan
 1895,28-03-2016,Schoolkart,E-Commerce,Online Marketplace for Schools,Noida,Group of investors (undisclosed),Seed Round,300000,nan
-1896,29-03-2016,HealthEminds,Consumer Internet,Online mental healthcare,Bengaluru,Robin Utthappa,Seed Round,,nan
-1897,29-03-2016,Babygogo,Consumer Internet,Child healthcare experts aggregator mobile app,New Delhi,"Rajul Garg, Daljit Singh, Aditya Vij, Kishore Kumar, Shuchin Bajaj",Seed Round,300000,nan
+1896,29-03-2016,HealthEminds,Health and Wellness,Online mental healthcare,Bengaluru,Robin Utthappa,Seed Round,,nan
+1897,29-03-2016,Babygogo,Health and Wellness,Child healthcare experts aggregator mobile app,New Delhi,"Rajul Garg, Daljit Singh, Aditya Vij, Kishore Kumar, Shuchin Bajaj",Seed Round,300000,nan
 1898,29-03-2016,Veritas Finance Ltd.,Financial Services,Asset Based Lending platform,Chennai,Sarva Capital,Private Equity Round,4700000,nan
 1899,29-03-2016,QikShip,Consumer Internet,Mobile based Logistics provider,New Delhi,Group of investors (undisclosed),Seed Round,200000,nan
 1900,29-03-2016,FixNix,Consumer Internet,GRC SAAS Platform,Chennai,Jay Vijayan,Seed Round,500000,nan
@@ -2062,7 +2062,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2061,19-01-2016,Cashkaro,Consumer Internet,Coupon & Cashback platform,Gurgaon,Ratan Tata,Private Equity Round,,nan
 2062,19-01-2016,Gameezop,Consumer Internet,Casual Gaming platform,New Delhi,Anand Chandrasekaran,Seed Round,,nan
 2063,19-01-2016,DailyObjects,E-Commerce,Mobile Accessories etailer,New Delhi,"Unilazer Ventures, Phanindra Sama, Peyush Bansal",Private Equity Round,1400000,nan
-2064,19-01-2016,Indus OS,Technology,Local language Mobile OS,Mumbai,Omidyar Network,Private Equity Round,5000000,nan
+2064,19-01-2016,Indus OS,Information Technology,Local language Mobile OS,Mumbai,Omidyar Network,Private Equity Round,5000000,nan
 2065,19-01-2016,CollegeDunia,Consumer Internet,Educational College Search platform,New Delhi,Umang Kumar,Seed Round,445000,nan
 2066,19-01-2016,Villgro,Finance,Social Business Incubator & Fund,Chennai,"Lemelson Foundation, Michael & Susan Dell Foundation",Private Equity Round,3500000,nan
 2067,20-01-2016,RedDoorz,Consumer Internet,Budget Accomodation Aggregator,New Delhi,500 Startups,Private Equity Round,,nan
@@ -2086,9 +2086,9 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2085,22-01-2016,Qubole,Technology,Enterprise Cloud Based Data Processing,Bengaluru,"Institutional Venture Partners, Norwest Venture Partners, Lightspeed Venture Partners India, CRV",Private Equity Round,30000000,nan
 2086,22-01-2016,Gajty,Beauty & Lifestyle platform,Salons & Spa Chain,Gurgaon,Purvi Ventures,Seed Round,,nan
 2087,25-01-2016,SIFTR Labs,Consumer Internet,Photography curation & Aggregator platform,Mumbai,Venture Catalysts,Seed Round,150000,nan
-2088,25-01-2016,Power2SME,Consumer Internet,SME Online Buying Hub,Gurgaon,"Nandan Nilekani, Accel, Kalaari Capital , Inventus Capital Partners",Private Equity Round,21000000,nan
+2088,25-01-2016,Power2SME,E-Commerce,SME Online Buying Hub,Gurgaon,"Nandan Nilekani, Accel, Kalaari Capital , Inventus Capital Partners",Private Equity Round,21000000,nan
 2089,25-01-2016,SkyCandle,E-Commerce,Home Decor Product etailer,New Delhi,GPA group,Private Equity Round,,nan
-2090,27-01-2016,Teabox.com,E-Commerce,Specialty Tea ETailer,Siliguri,Ratan Tata,Private Equity Round,,nan
+2090,27-01-2016,Teabox,Food & Beverages,Specialty Tea ETailer,Siliguri,Ratan Tata,Private Equity Round,,nan
 2091,27-01-2016,Buildzar,E-Commerce,Construction Material ETailer,Gurgaon,Puneet Dalmia,Private Equity Round,4000000,nan
 2092,27-01-2016,Applicate,Technology,Sales & Market & Distribution & Data Analytics Platform,Bengaluru,Group of investors (undisclosed),Seed Round,1000000,nan
 2093,27-01-2016,WhatsOnRent,E-Commerce,Online Rental Marketplace,Bengaluru,Lalit Mangal,Seed Round,,nan
@@ -2167,7 +2167,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2166,16-12-2015,MeraDoctor,Healthcare,nan,Mumbai,Unilazer Ventures,Private Equity Round,1200000,Pre-Series A
 2167,16-12-2015,STAGE 3,Online Renting platform,nan,New Delhi,"Nisha Sharma, Puneet Dalmia, Balaji Prabhakar",Seed Round,,
 2168,17-12-2015,Rivigo,Logistics Services Provider,nan,Gurgaon,SAIF Partners,Private Equity Round,30000000,Series B (includes Debt financing)
-2169,17-12-2015,Springboard,Data Science & UX design Learning platform,nan,Bengaluru,"Allen Blue, John Katzman, Naveen Tewari, Kartik Hosanagar, Kashyap Deorah, 500 Startups, Blue Fog Capital",Seed Round,1700000,
+2169,17-12-2015,Springboard,Ed-Tech,nan,Bengaluru,"Allen Blue, John Katzman, Naveen Tewari, Kartik Hosanagar, Kashyap Deorah, 500 Startups, Blue Fog Capital",Seed Round,1700000,
 2170,17-12-2015,Eatfresh,Online marketplace for Chef Meals,nan,Bengaluru,Kalaari Capital,Private Equity Round,,
 2171,18-12-2015,Ampere Vehicles,Electric Scooter Manufacturer,nan,Coimbatore,Kris Gopalakrishnan,Seed Round,1200000,
 2172,18-12-2015,Focus Digit,E-Commerce platform solutions,nan,New Delhi,Turning Ideas,Seed Round,,
@@ -2190,7 +2190,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2189,23-12-2015,CityFurnish,Furniture and appliances rental platform,nan,Gurgaon,Jitendra Gupta,Seed Round,,
 2190,24-12-2015,Black White Orange,Advertising & Marketing,nan,Mumbai,Collaborative Licensing Ventures LLP,Seed Round,303000,
 2191,24-12-2015,Kolabro,Real Estate focused Tech platform,nan,Gurgaon,"Umang Kumar, Ruchir Arora",Seed Round,,
-2192,24-12-2015,Canvera,Photographer Online search & booking platform,nan,Bengaluru,Info Edge (India) Ltd,Private Equity Round,2200000,
+2192,24-12-2015,Canvera,E-Commerce,nan,Bengaluru,Info Edge (India) Ltd,Private Equity Round,2200000,
 2193,28-12-2015,Town Essentials,Grocery Delivery platform,nan,Bengaluru,"Sharad Hegde, Girish Reddy, Siddharth Patil, Shrikant Patil",Seed Round,1000000,
 2194,28-12-2015,Bumper,Mobile Car Servicing appointment app,nan,Bengaluru,SAIF Partners,Seed Round,500000,
 2195,29-12-2015,Hotify,New Curation Mobile App,nan,Bengaluru,Mahavir Pratap Sharma,Seed Round,150000,
@@ -2254,7 +2254,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2253,19-11-2015,SenseGiz,Smartwatch Maker,nan,Belgaum,Karnataka Semiconductor Venture Capital firm,Seed Round,500000,
 2254,19-11-2015,PlaceofOrigin,Online Gourmet Food Marketplace,nan,Bengaluru,"S.D. Shibulal, Kris Gopalakrishnan, Srinath Batni, Professor Tarun Khanna, Ganapathy Venugopal",Seed Round,,
 2255,19-11-2015,Fourseven,Online Jewellery etailer,nan,New Delhi,Indian Angel Network (IAN),Seed Round,455000,
-2256,20-11-2015,MindTickle,Sales & Productivity Software,nan,Pune,New Enterprise Associates (NEA),Private Equity Round,12500000,Series A
+2256,20-11-2015,MindTickle,Technology,nan,Pune,New Enterprise Associates (NEA),Private Equity Round,12500000,Series A
 2257,20-11-2015,Shopsense,E-Commerce related software product platform,nan,Mumbai,"Kae Capital, Kunal Bahl, Rohit Bansal",Seed Round,,Pre-Series A
 2258,20-11-2015,Medinfi,Healthcare,nan,Bengaluru,"Ram Kumar Kakani, Pradeep K Jaisingh, Sunil T V, Vijay Ghadge, Hemant Kaul, Gurmeet Chahal",Seed Round,305000,
 2259,20-11-2015,OUWT,Nightlife Discovery Mobile App,nan,Mumbai,Group of investors (undisclosed),Seed Round,150000,
@@ -2267,7 +2267,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2266,24-11-2015,Stylofie,Beauty & Lifestyle platform,nan,Gurgaon,Swastika Investmart Ltd,Seed Round,250000,
 2267,24-11-2015,ServX,Automotive Services platform,nan,New Delhi,Manish Gupta,Seed Round,,
 2268,24-11-2015,Naaptol,Online and TV Shopping Marketplace,nan,Mumbai,"Mitsui & Co., New Enterprise Associates (NEA), Canaan Partners, Silicon Valley Bank",Private Equity Round,52000000,Late Stage
-2269,24-11-2015,Crayon Data,Big Data Analytics Platform,nan,Chennai,Ratan Tata,Private Equity Round,,
+2269,24-11-2015,Crayon Data,Technology,nan,Chennai,Ratan Tata,Private Equity Round,,
 2270,25-11-2015,EarlySalary,Financial Services,nan,Mumbai,Ashok Agarwal,Seed Round,1500000,
 2271,25-11-2015,Tooler,On Demand Laundry Services App,nan,New Delhi,"Raghu Khanna, Sameer Gupta",Seed Round,110000,
 2272,25-11-2015,S Chand,Education Content Provider,nan,New Delhi,"IFC, Everstone Group",Private Equity Round,27000000,
@@ -2277,7 +2277,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2276,26-11-2015,Pluss,Healthcare,nan,Gurgaon,"IDG Ventures India, M&S Partners, Powerhouse Ventures (USA)",Private Equity Round,1000000,Pre-Series A
 2277,26-11-2015,KountMoney,Online Lending Marketplace,nan,Bengaluru,"Tracxn, Ashish Goenka",Seed Round,,
 2278,27-11-2015,StayGlad,Beauty & Lifestyle platform,nan,Bengaluru,"Bessemer Venture Partners, Anil Chopra",Private Equity Round,,Series A
-2279,27-11-2015,Justride,Self Driven Rental Car Platform,nan,Mumbai,N/A,Private Equity Round,2000000,Pre-Series A bridge round
+2279,27-11-2015,Justride,Transportation,nan,Mumbai,N/A,Private Equity Round,2000000,Pre-Series A bridge round
 2280,27-11-2015,Fastudent,Education Content Provider,nan,Noida,Ashish Gupta,Seed Round,,
 2281,27-11-2015,LearnOn,Clud based Learning platform,nan,Chennai,JMR Infotech India Pvt Ltd,Seed Round,,
 2282,27-11-2015,Talentrack,Talent Exchange & Talent Services Marketplace,nan,New Delhi,Unigrowth Inc,Seed Round,,
@@ -2317,7 +2317,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2316,08-10-2015,Grabhouse,Rental Accommodation Search platform,nan,Bengaluru,"Sequoia India, Kalaari Capital",Private Equity Round,10000000,Series B
 2317,08-10-2015,Quifers,Logistics Tech,nan,Mumbai,"Vikas Agarwal, Vishal Khare, Sanjeev Kakkar, Smile Group",Seed Round,310000,
 2318,09-10-2015,Stockroom.io,Developer Portfolio Showcase platform,nan,Hyderabad,Group of investors (undisclosed),Seed Round,70000,
-2319,09-10-2015,Curofy,Doctor consultancy Mobile App,nan,New Delhi,RoundGlass Partners,Private Equity Round,,Pre-Series A
+2319,09-10-2015,Curofy,Healthcare,nan,New Delhi,RoundGlass Partners,Private Equity Round,,Pre-Series A
 2320,09-10-2015,Cloud Lending,End-to-End Lending platform,nan,Bengaluru,SF Capital Group,Private Equity Round,8000000,Series A
 2321,09-10-2015,Inayo,Healthcare,nan,Mumbai,"Kemark Ventures, Amit Ranjan, Zishaan Hayath",Seed Round,300000,
 2322,09-10-2015,WoNoBo,360-degree view creating platform,nan,Bengaluru,Quikr,Private Equity Round,,Strategic Funding
@@ -2361,7 +2361,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2360,26-10-2015,AlmaMapper,Online Student & Campus Social Networking platform,nan,Ahmedabad,Oswal Techno Ventures LLP,Seed Round,400000,
 2361,26-10-2015,Flexing It,Professionals & Project Search Marketplace,nan,New Delhi,Undisclosed private investors,Seed Round,500000,
 2362,26-10-2015,Netmeds.com,Health and Wellness,nan,Chennai,"OrbiMed, Pradip Dadha Group",Private Equity Round,50000000,Series A
-2363,26-10-2015,Razorpay,Online Payment Gateway,nan,Jaipur,"Tiger Global Management, Matrix Partners India",Private Equity Round,9000000,Series A
+2363,26-10-2015,Razorpay,FinTech,nan,Jaipur,"Tiger Global Management, Matrix Partners India",Private Equity Round,9000000,Series A
 2364,27-10-2015,Jombay,Psychometric Test Online Software,nan,Pune,Ventureworks India,Private Equity Round,,
 2365,27-10-2015,Happitoo,Location based Nightlife recommendation Platform,nan,Mumbai,Group of investors (undisclosed),Seed Round,77000,
 2366,27-10-2015,Care24,Healthcare,nan,Mumbai,India Quotient,Seed Round,350000,
@@ -2580,7 +2580,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2579,03-07-2015,CultureAlley,Language Learning App,nan,Jaipur,Tiger Global Management,Private Equity Round,6500000,Series A
 2580,03-07-2015,GOQii,Health and Wellness,nan,Mumbai,Vijay Shekhar Sharma,Private Equity Round,,Pre-Series A
 2581,03-07-2015,Gingercrush,Custom Merchandize platform,nan,Ahmedabad,"Gokul Jaykrishna, Brand Capital",Seed Round,1000000,
-2582,04-07-2015,Elanic,P2P Pre-owned goods marketplace,nan,Bengaluru,"Rebright Partners, Tracxn, Aneesh Reddy",Seed Round,,
+2582,04-07-2015,Elanic,Healthcare,nan,Bengaluru,"Rebright Partners, Tracxn, Aneesh Reddy",Seed Round,,
 2583,04-07-2015,Stitchwood,Custom Furniture Marketplace,nan,Mumbai,"Powai Lake Ventures, Ajeet Khurana",Seed Round,395000,
 2584,05-07-2015,Urban Tailor,Online Tailoring Services,nan,Bengaluru,Group of Angel investors (undisclosed),Seed Round,,
 2585,06-07-2015,ConfirmtTkt,Rail Ticket Confirmation predictor,nan,Bengaluru,Pravin Agarwala ,Seed Round,,
@@ -2631,7 +2631,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2630,22-07-2015,Iqlect,Technology,nan,Bengaluru,Exfinity Venture Partners,Private Equity Round,2000000,Series A
 2631,22-07-2015,deGustibus,Fine Dining Restaurant Chain,nan,Mumbai,India Value Fund Advisors,Private Equity Round,30000000,Late Stage
 2632,23-07-2015,NestAway,Luxury Rental Homes,nan,Bengaluru,"Flipkart, Tiger Global Management",Private Equity Round,12750000,Series A
-2633,23-07-2015,Mswipe,Mobile Point of Sale payment solution,nan,,"Falcon Edge Capital, Meru Capital, Ola, Matrix Partners India, DSG Consumer Partners, Axis Bank",Private Equity Round,25000000,Series B
+2633,23-07-2015,Mswipe,Financial Services,nan,,"Falcon Edge Capital, Meru Capital, Ola, Matrix Partners India, DSG Consumer Partners, Axis Bank",Private Equity Round,25000000,Series B
 2634,23-07-2015,Myonsto,Online Grocers,nan,Ahmedabad,Jayant Bokadia,Seed Round,320000,
 2635,23-07-2015,iCrushiFlush,Casual Dating App,nan,Mumbai,IDG Ventures India,Seed Round,,
 2636,23-07-2015,MedGenome,Clinical Genomics Provider,nan,Bengaluru,Sequoia India,Private Equity Round,20000000,Series B
@@ -2681,7 +2681,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2680,03-06-2015,Propstack,Real Estate Intelligence Platform,nan,Mumbai,DMG information Asia Pacific,Private Equity Round,3000000,Series A
 2681,03-06-2015,MyTaxiIndia,Online Car Rental Affiliates,nan,New Delhi,GHV Accelerator,Seed Round,100000,
 2682,03-06-2015,Arkin Net,Data Center Software platform,nan,Pune,Nexus Venture Partners,Private Equity Round,15000000,Series B
-2683,03-06-2015,Little Black Book,Online City & Lifestyle Guide,nan,New Delhi,"Rajan Anandan, Niraj Singh, Sachin Bhatia, Singapore Angel Network, Aseem Vadehra",Seed Round,150000,
+2683,03-06-2015,Little Black Book,Internet,nan,New Delhi,"Rajan Anandan, Niraj Singh, Sachin Bhatia, Singapore Angel Network, Aseem Vadehra",Seed Round,150000,
 2684,03-06-2015,MyPoolin,P2P Payments platform,nan,New Delhi,"Sharad Sharma, Rajan Anandan, Sunil Kalra, Amit Ranjan, Rohan Malhotra, Arjun Malhotra, Gautam Gandhi",Seed Round,,
 2685,03-06-2015,iCustomMadeIt,Bespoke Merchandize Marketplace,nan,Pune,"Virendra Shahney, Dr Paresh Doshi",Seed Round,250000,
 2686,03-06-2015,KAARYAH,Women Lifestyle Marketplace,nan,Gurgaon,Ratan Tata,Seed Round,,
@@ -2714,7 +2714,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2713,17-06-2015,Jiffstore,Online Grocery platform,nan,Bengaluru,"Unitus Seed Fund, Times Internet",Seed Round,,additional funding round
 2714,17-06-2015,MyDentistChoice,Dental Clinic chain,nan,Mumbai,"LGT Group, Asian Healthcare fund",Private Equity Round,8200000,Series C
 2715,18-06-2015,Moovo,Logistics Services Provider,nan,New Delhi,YouWeCan Ventures,Seed Round,,
-2716,18-06-2015,Fracktal Works,3D Printer Manufacturer,nan,Bengaluru,Neoteric Infomatique Limited,Private Equity Round,3000000,Series A
+2716,18-06-2015,Fracktal Works,Technology,nan,Bengaluru,Neoteric Infomatique Limited,Private Equity Round,3000000,Series A
 2717,18-06-2015,Hansa Customer Equity,IT/Customer Engagement Consulting,nan,Mumbai,ASK Pravi,Private Equity Round,5000000,Series A
 2718,18-06-2015,HealthifyMe,Health and Wellness,nan,Bengaluru,"Gopal Srinivasan, Sashi Reddy, Amit Gupta, Pallav Nadhani",Private Equity Round,,Series A
 2719,18-06-2015,CAKART.in,Education Marketplace,nan,Bengaluru,Sunil Maheshwari,Seed Round,,
@@ -2784,7 +2784,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2783,15-05-2015,Venturesity,Online Job skills Showcase,nan,Bengaluru,"Phanindra Sama, Jay Sethuram, Hemant Kanakia, Ravi Trivedi",Seed Round,270000,
 2784,18-05-2015,TheBetterIndia.com,Online News Media,nan,Bengaluru,T.V. Mohandas Pai,Seed Round,,Pre-Series Bridge
 2785,18-05-2015,Awaaz De,Enterprise Communication Platform,nan,Ahmedabad,Samir Shah,Seed Round,,
-2786,19-05-2015,Chaayos,Offline Tea Chain,nan,New Delhi,Tiger Global Management,Private Equity Round,1000000,Series A
+2786,19-05-2015,Chaayos,Food & Beverages,nan,New Delhi,Tiger Global Management,Private Equity Round,1000000,Series A
 2787,19-05-2015,Akosha,Business Messaging App,nan,New Delhi,Sequoia India,Private Equity Round,16000000,Series B
 2788,19-05-2015,Cooey,Technology,nan,Bengaluru,Subhash Goyal,Seed Round,470000,
 2789,19-05-2015,MeetUniv,Ed-Tech,nan,Noida,Peesh Venture Capital,Seed Round,1000000,
@@ -2796,7 +2796,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2795,22-05-2015,Nudgespot,Customer Engagement Platform,nan,Bengaluru,"Kae Capital, Anoop Goyal, Mike Shah, VA Sastry",Seed Round,625000,
 2796,22-05-2015,CarDekho,E-Commerce,nan,Jaipur,HDFC Bank,Private Equity Round,,1% stake
 2797,22-05-2015,EveningFlavors,Online Table Reservation,nan,Bengaluru,Sandiep Shrivatsava,Seed Round,500000,
-2798,25-05-2015,Razorpay,Online Payment Gateway,nan,Bengaluru,Punit Soni,Seed Round,,
+2798,25-05-2015,Razorpay,FinTech,nan,Bengaluru,Punit Soni,Seed Round,,
 2799,25-05-2015,ZenParent,Parents focused Web Content,nan,Bengaluru,i2india Ventures,Seed Round,500000,
 2800,25-05-2015,Newgen Payments,Payments Solution Provider,nan,New Delhi,Jan Manten,Seed Round,,
 2801,26-05-2015,UrbanPro,On-demand Service marketplace,nan,Bengaluru,Nirvana Ventures Advisors,Private Equity Round,2000000,Series A
@@ -2859,7 +2859,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2858,24-04-2015,Coverfox,Insurance,nan,Mumbai,"Accel US, Accel, SAIF Partners",Private Equity Round,12000000,Series B
 2859,27-04-2015,Torqus,Restaurant Management Platform,nan,Pune,S S Mukherji,Seed Round,350000,
 2860,27-04-2015,Grab.in,Food Delivery Platform ,nan,Mumbai,"Oliphans Capital, Haresh Chawla",Seed Round,1000000,
-2861,27-04-2015,Logic Roots,Interactive Educational Games,nan,Jaipur,"ah! Ventures, Calcutta Angels Network, 91springboard",Seed Round,400000,
+2861,27-04-2015,Logic Roots,Education,nan,Jaipur,"ah! Ventures, Calcutta Angels Network, 91springboard",Seed Round,400000,
 2862,27-04-2015,GIBBS,Clean Tech,nan,New Delhi,Infuse Ventures,Private Equity Round,,Series B
 2863,28-04-2015,Babajobs,Grey collar Job Board,nan,Bengaluru,SEEK Ltd & affiliates,Private Equity Round,10000000,Series B
 2864,28-04-2015,Urban Ladder,E-Commerce,nan,Bengaluru,"Anand Rajaraman, Venky Harinarayan",Private Equity Round,,Series D
@@ -2909,11 +2909,11 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2909,20-03-2015,CollateBox,nan,nan,nan,LetsVenture,Seed Round,180000,
 2910,20-03-2015,Mahindra First Choice,nan,nan,nan,Valiant Capital,Private Equity Round,15000000,Series B
 2911,21-03-2015,Round One,nan,nan,nan,"HT Media, Arun Duggal",Seed Round,,
-2912,23-03-2015,Razorpay,nan,nan,nan,Y Combinator,Seed Round,120000,
+2912,23-03-2015,Razorpay,FinTech,nan,nan,Y Combinator,Seed Round,120000,
 2913,23-03-2015,Mosambee,nan,nan,nan,"RVCF , SIDBI Venture Capital",Private Equity Round,,Series B
-2914,24-03-2015,Furlenco,nan,nan,nan,Lightbox,Private Equity Round,6000000,Series A
+2914,24-03-2015,Furlenco,Consumer Services,nan,nan,Lightbox,Private Equity Round,6000000,Series A
 2915,24-03-2015,Cubito,nan,nan,nan,Sol Primero,Seed Round,160000,
-2916,25-03-2015,Teabox,nan,nan,nan,"JAFCO Asia, Keystone Group, Dragoneer Investment Group, Accel",Private Equity Round,6000000,Series A
+2916,25-03-2015,Teabox,Food & Beverages,nan,nan,"JAFCO Asia, Keystone Group, Dragoneer Investment Group, Accel",Private Equity Round,6000000,Series A
 2917,25-03-2015,Artoo,nan,nan,nan,"Accion Venture Lab, Rianta Capital",Private Equity Round,500000,Series A
 2918,25-03-2015,Fxkart.com,nan,nan,nan,"Dr Mushtaq Shah, Dr Faraz Naqvi",Seed Round,2000000,
 2919,25-03-2015,Rozgar Mela,nan,nan,nan,"Impact Investment Holding, Upaya Social Ventures",Seed Round,,
@@ -2964,7 +2964,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2964,13-02-2015,CimplyFive,nan,nan,nan,"Suresh Senapaty, T.V. Mohandas Pai",Seed Round,,
 2965,13-02-2015,20Dresses,nan,nan,nan,"Srinivas Aluri, Srinivas Modukury, BS Nagesh",Seed Round,1000000,
 2966,13-02-2015,Itzcash,nan,nan,nan,Ashok Goel (promoter),Private Equity Round,16500000,Promoter Commitment
-2967,16-02-2015,NewsInShorts,nan,nan,nan,"Tiger Global Management, Rebright Partners, Sachin Bansal, Binny Bansal",Private Equity Round,4150000,Series A
+2967,16-02-2015,InShorts,Digital Media Platform,nan,nan,"Tiger Global Management, Rebright Partners, Sachin Bansal, Binny Bansal",Private Equity Round,4150000,Series A
 2968,16-02-2015,iTraveller.com,nan,nan,nan,ah! Ventures,Private Equity Round,1000000,Series A
 2969,17-02-2015,NextGen,nan,nan,nan,Mumbai Angels Network,Seed Round,,
 2970,18-02-2015,Wooplr,nan,nan,nan,Helion Venture Partners,Private Equity Round,5000000,Series A
@@ -2981,7 +2981,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2981,25-02-2015,Clonect Solutions,nan,nan,nan,"V Balakrishnan, T.V. Mohandas Pai, BC Prabhakar",Seed Round,250000,
 2982,25-02-2015,TaxSutra,nan,nan,nan,"V Balakrishnan, T.V. Mohandas Pai",Seed Round,160000,
 2983,25-02-2015,PepperTap,nan,nan,nan,Sequoia India,Seed Round,,
-2984,25-02-2015,Sattviko,nan,nan,nan,"Sumit Jain, Rajat Jain, Sanjay Bhasin",Seed Round,320000,
+2984,25-02-2015,Sattviko,Food & Beverages,nan,nan,"Sumit Jain, Rajat Jain, Sanjay Bhasin",Seed Round,320000,
 2985,25-02-2015,IndustryBuying,nan,nan,nan,SAIF Partners,Private Equity Round,2000000,Series A
 2986,26-02-2015,FreshWorld,nan,nan,nan,"Kris Gopalakrishnan, Nagaraja Prakasam",Seed Round,,
 2987,26-02-2015,TinyOwl,nan,nan,nan,"Matrix Partners India, Sequoia India, Nexus Venture Partners",Private Equity Round,16000000,Series B
@@ -2993,7 +2993,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 2993,05-01-2015,#Fame,nan,nan,nan,TO THE NEW Ventures,Private Equity Round,10000000,
 2994,05-01-2015,Gympik,nan,nan,nan,"Tom Clausen, Rohan Ajila, Haldyn Glass",Seed Round,135000,
 2995,06-01-2015,Near.in,nan,nan,nan,"Anupam Mittal, Manish Vij, Prashant Tandon, Gaurav Agarwal, Akash Agarwal, Himanshu Aggarwal, Kevin Parikh",Seed Round,285000,
-2996,06-01-2015,Purplle.com,nan,nan,nan,Ivycap Ventures Advisors,Private Equity Round,,
+2996,06-01-2015,Purplle.com,E-Commerce,nan,nan,Ivycap Ventures Advisors,Private Equity Round,,
 2997,06-01-2015,NumberMall,nan,nan,nan,SRI Capital,Private Equity Round,10000000,
 2998,06-01-2015,Tookitaki,nan,nan,nan,"Jungle Ventures, Rebright Partners, Blume Ventures",Private Equity Round,1000000,
 2999,06-01-2015,Frankly,nan,nan,nan,Matrix Partners India,Seed Round,600000,
@@ -3010,7 +3010,7 @@ Sr_No,Date,Startup_Name,IndustryVertical,SubVertical,City,Investors Name,Investm
 3010,13-01-2015,AppVirality,nan,nan,nan,"Rajan Anandan, Mike Galgon, Ashim Mehra, Mohit Saxena, Ravi Gururaj, TNN Capital, IIG",Seed Round,,
 3011,14-01-2015,RateGain,nan,nan,nan,TA Associates,Private Equity Round,50000000,
 3012,15-01-2015,Wishberry,nan,nan,nan,"Rajan Anandan, Shankar Mahadevan, Deep Kalra",Seed Round,650000,
-3013,16-01-2015,eKincare,nan,nan,nan,Adroitent Pvt. Ltd.,Seed Round,161000,
+3013,16-01-2015,eKincare,Health and Wellness,nan,nan,Adroitent Pvt. Ltd.,Seed Round,161000,
 3014,18-01-2015,ShopClues,nan,nan,nan,Tiger Global Management,Private Equity Round,100000000,More Details
 3015,19-01-2015,Refiral,nan,nan,nan,Cogent E Services,Seed Round,330000,
 3016,19-01-2015,Ping Digital,nan,nan,nan,Consortium of Angel Investors,Seed Round,,
