@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "investment_round","funds_per_rounds"
 "Private Equity Round",27228868165
 "Series B",4799195735
@@ -27,3 +28,34 @@
 "Mezzanine",1000000
 "Series J",1000000
 "Crowd Funding",155768
+=======
+"investment_round","funds_per_rounds"
+"Private Equity Round",27228868165
+"Series B",4799195735
+"Series D",1481799000
+"Series C",1044718394
+"Funding Round",1000000000
+"Seed Round",829120908
+"Series G",231000000
+"Seed/Angel Round",226160615
+"Series A",203200000
+"Debt Funding",170262354
+"Series H",150000000
+"Single Venture",140000000
+"Equity Based Funding",132000000
+"Series F",90000000
+"Pre-series A",44372000
+"Corporate Round",38080000
+"Series E",33000000
+"Private Funding",30380000
+"Venture Round",20000000
+"Structured Debt",8600000
+"Debt and Preference capital",6320820
+"Term Loan",6240000
+"Series B (Extension)",6000000
+"Maiden Round",4500000
+"Inhouse Funding",2443495
+"Mezzanine",1000000
+"Series J",1000000
+"Crowd Funding",155768
+>>>>>>> 5524e7a02dc4fe9cd11ac19cc60112deb7852b99
