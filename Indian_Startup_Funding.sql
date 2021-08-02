@@ -35,7 +35,7 @@ FROM
 		InvestorsName NOT IN ('N/A','Not Disclosed')
 	) AS Count_investors;
 	
---Investments over the years
+--Investments over the years, quarterly basis
 SELECT 
 	EXTRACT(YEAR FROM Date) AS Year, 
 	EXTRACT(QUARTER FROM Date) AS quarter,
