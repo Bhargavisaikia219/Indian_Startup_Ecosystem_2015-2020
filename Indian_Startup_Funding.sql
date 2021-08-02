@@ -36,17 +36,21 @@ FROM
 	) AS Count_investors;
 	
 --Investments over the years
-SELECT
-	Date,
- 	SUM(Amount_in_USD) AS Yearwise_invest
-FROM
+SELECT 
+	EXTRACT(YEAR FROM Date) AS Year, 
+	EXTRACT(QUARTER FROM Date) AS quarter,
+	SUM(Amount_in_USD) AS Yearwise_invest
+FROM 
 	start_up
 WHERE
-	Amount_in_USD IS NOT null	
+	Amount_in_USD IS NOT null
 GROUP BY
-	Date
-ORDER BY
-	Date;	
+	EXTRACT(YEAR FROM Date), 
+	EXTRACT(QUARTER FROM Date),
+	Amount_in_USD
+ORDER BY 
+	EXTRACT(YEAR FROM Date) ASC,
+	EXTRACT(QUARTER FROM Date) ASC;	
 
 --Startup industries w.r.t Funding
 SELECT DISTINCT
